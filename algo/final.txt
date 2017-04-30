@@ -1,0 +1,2280 @@
+Batting
+overall 2005-2010 34 28 5 488 67 21.21 473 103.17 0 1 2 29 10 Profile 
+Bowling
+overall 2005-2010 34 15 26.0 0 225 6 1/2 37.50 8.65 26.0 0 0 Profile 
+Batting
+overall 2005-2008 13 13 1 272 48 22.66 192 141.66 0 0 0 27 13 Profile 
+Bowling
+overall 2005-2008 13 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2010 12 7 2 105 30 21.00 98 107.14 0 0 0 7 1 Profile 
+Bowling
+overall 2005-2010 12 12 37.0 0 283 10 2/26 28.30 7.64 22.2 0 0 Profile 
+Batting
+overall 2005-2012 38 30 11 721 60* 37.94 529 136.29 0 4 1 58 25 Profile 
+Bowling
+overall 2005-2012 38 1 1.0 0 5 0 - - 5.00 - 0 0 Profile 
+Batting
+overall 2 1 1 3 3* - 5 60.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 7.0 0 57 5 4/29 11.40 8.14 8.4 1 0 Profile 
+Batting
+overall 3 2 0 69 39 34.50 47 146.80 0 0 0 8 2 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2012 25 12 6 101 43* 16.83 71 142.25 0 0 2 9 4 Profile 
+Bowling
+overall 2005-2012 25 25 90.5 0 714 28 3/23 25.50 7.86 19.4 0 0 Profile 
+Batting
+overall 2 1 0 5 5 5.00 12 41.66 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 8.0 0 79 5 3/31 15.80 9.87 9.6 0 0 Profile 
+Batting
+overall 4 4 0 120 96 30.00 74 162.16 0 1 0 11 5 Profile 
+Bowling
+overall 4 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2009 17 16 2 401 98* 28.64 302 132.78 0 2 2 41 11 Profile 
+Bowling
+overall 2005-2009 17 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2009 14 11 4 337 85* 48.14 199 169.34 0 2 2 33 10 Profile 
+Bowling
+overall 2005-2009 14 12 30.5 0 277 8 2/14 34.62 8.98 23.1 0 0 Profile 
+Batting
+overall 1 1 0 24 24 24.00 18 133.33 0 0 0 4 0 Profile 
+Bowling
+overall 1 1 4.0 0 49 1 1/49 49.00 12.25 24.0 0 0 Profile 
+Batting
+overall 2005-2007 9 9 3 308 73* 51.33 214 143.92 0 4 0 37 13 Profile 
+Bowling
+overall 2005-2007 9 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2009 19 6 3 15 4* 5.00 22 68.18 0 0 1 1 0 Profile 
+Bowling
+overall 2006-2009 19 19 62.5 2 438 19 3/11 23.05 6.97 19.8 0 0 Profile 
+Batting
+overall 2006-2007 9 - - - - - - - - - - - - Profile 
+Bowling
+overall 2006-2007 9 9 36.0 0 237 13 4/20 18.23 6.58 16.6 1 0 Profile 
+Batting
+overall 2006-2014 34 29 6 402 47 17.47 351 114.52 0 0 2 30 13 Profile 
+Bowling
+overall 2006-2014 34 - - - - - - - - - - - Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 7.3 0 49 4 2/18 12.25 6.53 11.2 0 0 Profile 
+Batting
+overall 2006-2014 15 4 0 55 41 13.75 39 141.02 0 0 0 3 3 Profile 
+Bowling
+overall 2006-2014 15 15 49.0 1 373 7 2/31 53.28 7.61 42.0 0 0 Profile 
+Batting
+overall 2006-2016 58 56 6 1462 124* 29.24 1006 145.32 1 10 3 115 83 Profile 
+Bowling
+overall 2006-2016 58 49 155.0 2 1187 48 4/15 24.72 7.65 19.3 1 0 Profile 
+Batting
+overall 2007-2009 3 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 2007-2009 3 3 12.0 0 113 3 2/21 37.66 9.41 24.0 0 0 Profile 
+Batting
+overall 2007-2012 7 3 1 2 2 1.00 10 20.00 0 0 1 0 0 Profile 
+Bowling
+overall 2007-2012 7 7 26.0 0 161 9 2/15 17.88 6.19 17.3 0 0 Profile 
+Batting
+overall 2007-2014 47 44 14 984 85* 32.80 740 132.97 0 5 3 71 44 Profile 
+Bowling
+overall 2007-2014 47 5 7.0 0 51 1 1/11 51.00 7.28 42.0 0 0 Profile 
+Batting
+overall 2007-2014 15 11 4 183 36 26.14 144 127.08 0 0 0 9 7 Profile 
+Bowling
+overall 2007-2014 15 3 5.0 0 43 1 1/13 43.00 8.60 30.0 0 0 Profile 
+Batting
+overall 2007-2013 30 17 7 109 28* 10.90 95 114.73 0 0 2 8 3 Profile 
+Bowling
+overall 2007-2013 30 30 109.2 2 797 38 3/15 20.97 7.28 17.2 0 0 Profile 
+Batting
+overall 2 1 0 0 0 0.00 0 - 0 0 1 0 0 Profile 
+Bowling
+overall 2 2 7.3 1 41 4 3/18 10.25 5.46 11.2 0 0 Profile 
+Batting
+overall 1 1 0 15 15 15.00 7 214.28 0 0 0 1 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2016 21 6 2 11 6 2.75 15 73.33 0 0 1 0 1 Profile 
+Bowling
+overall 2007-2016 21 21 79.4 2 589 28 3/13 21.03 7.39 17.0 0 0 Profile 
+Batting
+overall 2007-2013 7 5 2 139 51 46.33 114 121.92 0 1 0 8 2 Profile 
+Bowling
+overall 2007-2013 7 1 2.0 0 5 2 2/5 2.50 2.50 6.0 0 0 Profile 
+Batting
+overall 2008-2012 39 36 3 756 88* 22.90 623 121.34 0 3 4 41 34 Profile 
+Bowling
+overall 2008-2012 39 25 60.1 1 392 19 3/25 20.63 6.51 19.0 0 0 Profile 
+Batting
+overall 2008-2016 15 15 1 255 47* 18.21 248 102.82 0 0 2 15 10 Profile 
+Bowling
+overall 2008-2016 15 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2017 32 25 6 359 51* 18.89 254 141.33 0 1 4 30 14 Profile 
+Bowling
+overall 2008-2017 32 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2016 63 63 3 1686 90* 28.10 1208 139.56 0 12 5 162 74 Profile 
+Bowling
+overall 2009-2016 63 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 0 16 8 5.33 19 84.21 0 0 1 1 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 9 6 2 89 56* 22.25 67 132.83 0 1 0 3 3 Profile 
+Bowling
+overall 2009-2017 9 7 17.0 0 158 4 2/35 39.50 9.29 25.5 0 0 Profile 
+Batting
+overall 2009-2010 2 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2009-2010 2 2 8.0 0 58 3 2/24 19.33 7.25 16.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.2 0 35 2 2/35 17.50 10.50 10.0 0 0 Profile 
+Batting
+overall 2009-2013 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 2009-2013 3 3 11.5 0 118 2 1/32 59.00 9.97 35.5 0 0 Profile 
+Batting
+overall 3 2 0 6 4 3.00 10 60.00 0 0 0 1 0 Profile 
+Bowling
+overall 3 2 7.2 0 47 2 1/20 23.50 6.40 22.0 0 0 Profile 
+Batting
+overall 1 1 0 20 20 20.00 21 95.23 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 17 5 3 22 12* 11.00 18 122.22 0 0 0 1 1 Profile 
+Bowling
+overall 17 16 61.0 2 459 28 4/18 16.39 7.52 13.0 1 0 Profile 
+Batting
+overall 2009-2017 8 6 1 30 21 6.00 24 125.00 0 0 2 3 1 Profile 
+Bowling
+overall 2009-2017 8 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2012 4 3 0 31 17 10.33 33 93.93 0 0 0 3 1 Profile 
+Bowling
+overall 2010-2012 4 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2016 30 25 5 431 90 21.55 352 122.44 0 2 1 34 11 Profile 
+Bowling
+overall 2010-2016 30 17 48.3 1 377 17 3/20 22.17 7.77 17.1 0 0 Profile 
+Batting
+overall 2010-2014 15 6 3 18 6* 6.00 15 120.00 0 0 1 2 0 Profile 
+Bowling
+overall 2010-2014 15 15 35.0 0 310 11 3/27 28.18 8.85 19.0 0 0 Profile 
+Batting
+overall 3 1 1 2 2* - 1 200.00 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 11.4 1 95 4 2/27 23.75 8.14 17.5 0 0 Profile 
+Batting
+overall 7 5 0 32 22 6.40 26 123.07 0 0 0 4 1 Profile 
+Bowling
+overall 7 7 19.0 0 149 6 3/29 24.83 7.84 19.0 0 0 Profile 
+Batting
+overall 2010-2016 9 6 2 46 15 11.50 37 124.32 0 0 0 3 1 Profile 
+Bowling
+overall 2010-2016 9 9 31.0 0 247 7 3/14 35.28 7.96 26.5 0 0 Profile 
+Batting
+overall 2010-2013 6 4 2 19 7 9.50 22 86.36 0 0 1 1 1 Profile 
+Bowling
+overall 2010-2013 6 6 22.4 1 183 4 2/24 45.75 8.07 34.0 0 0 Profile 
+Batting
+overall 2011-2017 31 31 3 1082 156 38.64 725 149.24 1 7 0 110 47 Profile 
+Bowling
+overall 2011-2017 31 2 2.0 0 27 0 - - 13.50 - 0 0 Profile 
+Batting
+overall 2011-2014 9 2 2 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2011-2014 9 9 35.0 0 249 9 1/22 27.66 7.11 23.3 0 0 Profile 
+Batting
+overall 2011-2017 18 10 3 28 13 4.00 34 82.35 0 0 2 1 1 Profile 
+Bowling
+overall 2011-2017 18 18 69.0 3 472 23 3/15 20.52 6.84 18.0 0 0 Profile 
+Batting
+overall 4 2 2 5 5* - 3 166.66 0 0 0 1 0 Profile 
+Bowling
+overall 4 4 13.0 0 104 3 2/17 34.66 8.00 26.0 0 0 Profile 
+Batting
+overall 2011-2016 26 17 5 239 72 19.91 218 109.63 0 1 0 11 9 Profile 
+Bowling
+overall 2011-2016 26 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 9 9 3 133 36 22.16 104 127.88 0 0 0 6 8 Profile 
+Bowling
+overall 2011-2016 9 7 17.0 0 145 4 1/17 36.25 8.52 25.5 0 0 Profile 
+Batting
+overall 2012-2016 29 25 7 470 63 26.11 334 140.71 0 2 1 37 20 Profile 
+Bowling
+overall 2012-2016 29 - - - - - - - - - - - Profile 
+Batting
+overall 2012-2013 11 4 3 18 9* 18.00 17 105.88 0 0 0 1 0 Profile 
+Bowling
+overall 2012-2013 11 11 38.0 0 300 10 3/20 30.00 7.89 22.8 0 0 Profile 
+Batting
+overall 2012-2017 24 18 7 159 41* 14.45 138 115.21 0 0 0 7 5 Profile 
+Bowling
+overall 2012-2017 24 24 85.5 0 684 36 5/27 19.00 7.96 14.3 0 1 Profile 
+Batting
+overall 2012-2016 36 32 4 822 145* 29.35 491 167.41 1 3 1 76 44 Profile 
+Bowling
+overall 2012-2016 36 32 77.0 0 575 17 3/13 33.82 7.46 27.1 0 0 Profile 
+Batting
+overall 2012-2016 22 6 2 12 4 3.00 18 66.66 0 0 0 0 0 Profile 
+Bowling
+overall 2012-2016 22 22 83.3 1 566 30 3/11 18.86 6.77 16.7 0 0 Profile 
+Batting
+overall 2013-2014 4 3 0 35 29 11.66 23 152.17 0 0 1 1 3 Profile 
+Bowling
+overall 2013-2014 4 4 11.0 0 99 1 1/18 99.00 9.00 66.0 0 0 Profile 
+Batting
+overall 2013-2016 17 7 2 51 16* 10.20 43 118.60 0 0 2 1 5 Profile 
+Bowling
+overall 2013-2016 17 17 65.0 0 532 21 4/31 25.33 8.18 18.5 1 0 Profile 
+Batting
+overall 2013-2016 7 - - - - - - - - - - - - Profile 
+Bowling
+overall 2013-2016 7 7 28.0 0 269 8 4/30 33.62 9.60 21.0 1 0 Profile 
+Batting
+overall 1 1 0 16 16 16.00 14 114.28 0 0 0 0 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 1 3 3* - 5 60.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 8.0 0 68 3 3/25 22.66 8.50 16.0 0 0 Profile 
+Batting
+overall 2 2 0 38 34 19.00 22 172.72 0 0 0 6 1 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2014-2016 5 4 1 65 33* 21.66 48 135.41 0 0 0 3 4 Profile 
+Bowling
+overall 2014-2016 5 - - - - - - - - - - - Profile 
+Batting
+overall 5 2 1 4 3 4.00 8 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 5 5 15.0 0 109 6 2/13 18.16 7.26 15.0 0 0 Profile 
+Batting
+overall 3 1 0 5 5 5.00 8 62.50 0 0 0 1 0 Profile 
+Bowling
+overall 3 3 6.0 0 47 1 1/17 47.00 7.83 36.0 0 0 Profile 
+Batting
+overall 7 2 1 4 3 4.00 7 57.14 0 0 0 0 0 Profile 
+Bowling
+overall 7 7 23.0 0 152 8 2/10 19.00 6.60 17.2 0 0 Profile 
+Batting
+overall 1 1 0 6 6 6.00 8 75.00 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 3 1 0 9 9 9.00 7 128.57 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 10.0 0 82 1 1/13 82.00 8.20 60.0 0 0 Profile 
+Batting
+overall 2014-2017 5 5 0 99 32 19.80 69 143.47 0 0 0 8 6 Profile 
+Bowling
+overall 2014-2017 5 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 4 4 4.00 8 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 1 10 10* - 8 125.00 0 0 0 1 0 Profile 
+Bowling
+overall 1 1 1.0 0 13 0 - - 13.00 - 0 0 Profile 
+Batting
+overall 7 7 1 147 45 24.50 97 151.54 0 0 0 6 8 Profile 
+Bowling
+overall 7 2 3.0 0 25 1 1/16 25.00 8.33 18.0 0 0 Profile 
+Batting
+overall 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 3 3 11.0 0 90 3 3/26 30.00 8.18 22.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 1.0 0 15 0 - - 15.00 - 0 0 Profile 
+Batting
+overall 5 3 1 4 4 2.00 6 66.66 0 0 1 1 0 Profile 
+Bowling
+overall 5 5 18.2 0 188 5 3/37 37.60 10.25 22.0 0 0 Profile 
+Batting
+overall 1 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 9 9 0 241 58 26.77 182 132.41 0 1 0 31 5 Profile 
+Bowling
+overall 9 - - - - - - - - - - - Profile 
+Batting
+overall 9 5 4 25 10* 25.00 11 227.27 0 0 0 1 2 Profile 
+Bowling
+overall 9 - - - - - - - - - - - Profile 
+Batting
+overall 10 2 2 7 5* - 6 116.66 0 0 0 0 0 Profile 
+Bowling
+overall 10 10 35.0 0 212 14 3/16 15.14 6.05 15.0 0 0 Profile 
+Batting
+overall 2 1 0 9 9 9.00 8 112.50 0 0 0 0 1 Profile 
+Bowling
+overall 2 2 3.0 0 43 1 1/25 43.00 14.33 18.0 0 0 Profile 
+Batting
+overall 3 3 0 143 62 47.66 112 127.67 0 1 0 12 2 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 42 0 - - 14.00 - 0 0 Profile 
+Batting
+overall 3 3 0 26 18 8.66 21 123.80 0 0 0 1 0 Profile 
+Bowling
+overall 3 3 6.0 0 42 3 2/12 14.00 7.00 12.0 0 0 Profile 
+Batting
+overall 2 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 2 2 6.0 0 62 2 1/24 31.00 10.33 18.0 0 0 Profile 
+Batting
+overall 2006-2014 34 20 10 41 9 4.10 74 55.40 0 0 5 1 0 Profile 
+Bowling
+overall 2006-2014 34 33 121.4 4 838 44 4/16 19.04 6.88 16.5 1 0 Profile 
+Batting
+overall 2006-2010 11 11 1 228 62* 22.80 178 128.08 0 1 0 26 6 Profile 
+Bowling
+overall 2006-2010 11 1 0.2 0 8 0 - - 24.00 - 0 0 Profile 
+Batting
+overall 2006-2014 13 9 0 72 19 8.00 88 81.81 0 0 1 4 2 Profile 
+Bowling
+overall 2006-2014 13 11 26.0 0 261 6 2/34 43.50 10.03 26.0 0 0 Profile 
+Batting
+overall 2006-2017 54 39 11 377 36 13.46 277 136.10 0 0 6 28 23 Profile 
+Bowling
+overall 2006-2017 54 53 189.5 1 1527 42 4/19 36.35 8.04 27.1 1 0 Profile 
+Batting
+overall 1 1 0 13 13 13.00 5 260.00 0 0 0 3 0 Profile 
+Bowling
+overall 1 1 4.0 0 22 1 1/22 22.00 5.50 24.0 0 0 Profile 
+Batting
+overall 2006-2017 59 51 9 726 50 17.28 642 113.08 0 1 3 60 18 Profile 
+Bowling
+overall 2006-2017 59 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 0 27 12 9.00 23 117.39 0 0 0 2 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 4 4 4.00 3 133.33 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2013 6 5 3 8 4* 4.00 12 66.66 0 0 1 0 0 Profile 
+Bowling
+overall 2006-2013 6 6 20.0 0 198 4 2/22 49.50 9.90 30.0 0 0 Profile 
+Batting
+overall 1 1 0 25 25 25.00 17 147.05 0 0 0 3 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2017 59 59 8 1208 84 23.68 997 121.16 0 6 4 118 27 Profile 
+Bowling
+overall 2006-2017 59 58 214.5 1 1459 70 4/15 20.84 6.79 18.4 3 0 Profile 
+Batting
+overall 2007-2011 7 7 2 57 19 11.40 85 67.05 0 0 2 3 1 Profile 
+Bowling
+overall 2007-2011 7 2 5.0 0 35 2 2/12 17.50 7.00 15.0 0 0 Profile 
+Batting
+overall 2007-2017 58 51 11 810 64* 20.25 700 115.71 0 3 2 59 29 Profile 
+Bowling
+overall 2007-2017 58 39 93.1 2 670 22 2/5 30.45 7.19 25.4 0 0 Profile 
+Batting
+overall 2007-2013 23 23 0 450 65 19.56 356 126.40 0 2 2 48 11 Profile 
+Bowling
+overall 2007-2013 23 8 23.0 0 210 8 3/42 26.25 9.13 17.2 0 0 Profile 
+Batting
+overall 7 7 0 178 81 25.42 158 112.65 0 1 2 13 10 Profile 
+Bowling
+overall 7 - - - - - - - - - - - Profile 
+Batting
+overall 8 3 1 7 6 3.50 9 77.77 0 0 0 1 0 Profile 
+Bowling
+overall 8 8 29.0 2 202 4 1/10 50.50 6.96 43.5 0 0 Profile 
+Batting
+overall 2007-2017 56 56 5 1202 103* 23.56 1044 115.13 1 4 4 131 28 Profile 
+Bowling
+overall 2007-2017 56 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2012 7 7 0 159 71 22.71 108 147.22 0 1 1 16 7 Profile 
+Bowling
+overall 2007-2012 7 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 1 1 1.00 2 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 1 16 10 16.00 25 64.00 0 0 0 1 0 Profile 
+Bowling
+overall 2 1 2.5 0 20 0 - - 7.05 - 0 0 Profile 
+Batting
+overall 2008-2013 10 10 1 130 28 14.44 114 114.03 0 0 0 8 7 Profile 
+Bowling
+overall 2008-2013 10 6 15.0 0 122 3 2/32 40.66 8.13 30.0 0 0 Profile 
+Batting
+overall 5 5 0 51 18 10.20 62 82.25 0 0 0 3 1 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 14 7 5 12 8* 6.00 18 66.66 0 0 1 1 0 Profile 
+Bowling
+overall 2009-2017 14 13 45.2 0 424 14 3/31 30.28 9.35 19.4 0 0 Profile 
+Batting
+overall 2009-2012 4 2 2 3 3* - 15 20.00 0 0 0 0 0 Profile 
+Bowling
+overall 2009-2012 4 4 7.0 0 67 1 1/15 67.00 9.57 42.0 0 0 Profile 
+Batting
+overall 2010-2013 11 4 1 18 16 6.00 24 75.00 0 0 1 1 1 Profile 
+Bowling
+overall 2010-2013 11 11 36.4 0 275 8 2/19 34.37 7.50 27.5 0 0 Profile 
+Batting
+overall 2010-2017 12 11 0 103 36 9.36 119 86.55 0 0 4 12 3 Profile 
+Bowling
+overall 2010-2017 12 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 1 1 1* - 3 33.33 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 1.0 0 12 0 - - 12.00 - 0 0 Profile 
+Batting
+overall 2010-2013 3 3 0 31 18 10.33 23 134.78 0 0 0 3 1 Profile 
+Bowling
+overall 2010-2013 3 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 31 24 4 370 50* 18.50 326 113.49 0 2 2 30 7 Profile 
+Bowling
+overall 2011-2016 31 11 29.5 0 262 7 2/26 37.42 8.78 25.5 0 0 Profile 
+Batting
+overall 4 1 0 9 9 9.00 8 112.50 0 0 0 1 0 Profile 
+Bowling
+overall 4 4 11.0 0 108 2 2/33 54.00 9.81 33.0 0 0 Profile 
+Batting
+overall 7 4 2 9 5 4.50 9 100.00 0 0 0 1 0 Profile 
+Bowling
+overall 7 7 23.0 1 146 9 5/13 16.22 6.34 15.3 0 1 Profile 
+Batting
+overall 14 12 3 117 40* 13.00 91 128.57 0 0 3 3 10 Profile 
+Bowling
+overall 14 7 12.3 0 127 3 1/16 42.33 10.16 25.0 0 0 Profile 
+Batting
+overall 2012-2015 13 13 2 355 58 32.27 301 117.94 0 1 1 38 12 Profile 
+Bowling
+overall 2012-2015 13 - - - - - - - - - - - Profile 
+Batting
+overall 6 4 1 60 26* 20.00 50 120.00 0 0 0 5 2 Profile 
+Bowling
+overall 6 2 3.0 0 32 0 - - 10.66 - 0 0 Profile 
+Batting
+overall 2012-2015 10 7 3 57 24 14.25 59 96.61 0 0 0 3 1 Profile 
+Bowling
+overall 2012-2015 10 10 35.0 1 299 4 1/28 74.75 8.54 52.5 0 0 Profile 
+Batting
+overall 2013-2014 9 8 0 86 53 10.75 85 101.17 0 1 2 12 1 Profile 
+Bowling
+overall 2013-2014 9 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 1.0 0 15 0 - - 15.00 - 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 1.0 0 13 0 - - 13.00 - 0 0 Profile 
+Batting
+overall 2013-2016 25 5 3 7 5* 3.50 12 58.33 0 0 1 1 0 Profile 
+Bowling
+overall 2013-2016 25 23 79.2 0 592 39 3/20 15.17 7.46 12.2 0 0 Profile 
+Batting
+overall 2014-2016 10 6 3 34 10 11.33 30 113.33 0 0 0 3 1 Profile 
+Bowling
+overall 2014-2016 10 10 31.0 0 230 12 2/17 19.16 7.41 15.5 0 0 Profile 
+Batting
+overall 2014-2016 12 8 0 85 47 10.62 93 91.39 0 0 2 6 3 Profile 
+Bowling
+overall 2014-2016 12 - - - - - - - - - - - Profile 
+Batting
+overall 2014-2017 31 30 5 721 80 28.84 597 120.77 0 3 0 68 20 Profile 
+Bowling
+overall 2014-2017 31 8 11.1 0 70 6 3/11 11.66 6.26 11.1 0 0 Profile 
+Batting
+overall 2014-2017 15 3 2 17 15* 17.00 18 94.44 0 0 0 1 1 Profile 
+Bowling
+overall 2014-2017 15 13 44.5 1 308 10 2/32 30.80 6.86 26.9 0 0 Profile 
+Batting
+overall 17 6 2 8 6 2.00 15 53.33 0 0 2 0 1 Profile 
+Bowling
+overall 17 17 65.2 0 403 27 5/22 14.92 6.16 14.5 1 1 Profile 
+Batting
+overall 24 24 0 443 48 18.45 359 123.39 0 0 4 51 14 Profile 
+Bowling
+overall 24 3 3.0 0 49 0 - - 16.33 - 0 0 Profile 
+Batting
+overall 3 3 0 49 22 16.33 45 108.88 0 0 0 3 1 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 21 21 21.00 22 95.45 0 0 0 0 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 2.0 0 20 2 2/20 10.00 10.00 6.0 0 0 Profile 
+Batting
+overall 9 8 4 78 30* 19.50 63 123.80 0 0 1 9 0 Profile 
+Bowling
+overall 9 - - - - - - - - - - - Profile 
+Batting
+overall 5 4 2 35 16* 17.50 35 100.00 0 0 0 3 1 Profile 
+Bowling
+overall 5 4 11.0 0 71 2 1/18 35.50 6.45 33.0 0 0 Profile 
+Batting
+overall 5 1 0 14 14 14.00 10 140.00 0 0 0 1 1 Profile 
+Bowling
+overall 5 4 11.0 0 102 3 2/40 34.00 9.27 22.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 32 1 1/32 32.00 10.66 18.0 0 0 Profile 
+Batting
+overall 6 6 1 99 34* 19.80 91 108.79 0 0 0 7 3 Profile 
+Bowling
+overall 6 5 10.4 0 75 2 1/22 37.50 7.03 32.0 0 0 Profile 
+Batting
+overall 1 1 1 19 19* - 15 126.66 0 0 0 1 1 Profile 
+Bowling
+overall 1 1 2.0 0 17 0 - - 8.50 - 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.3 0 40 0 - - 11.42 - 0 0 Profile 
+Batting
+overall 2 1 0 6 6 6.00 5 120.00 0 0 0 1 0 Profile 
+Bowling
+overall 2 2 6.0 0 47 1 1/24 47.00 7.83 36.0 0 0 Profile 
+Batting
+overall 1 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 1 1 2.0 0 15 0 - - 7.50 - 0 0 Profile 
+Batting
+overall 4 2 0 15 14 7.50 11 136.36 0 0 0 2 0 Profile 
+Bowling
+overall 4 3 10.3 1 85 3 2/10 28.33 8.09 21.0 0 0 Profile 
+Batting
+overall 2006-2017 76 66 33 1209 56 36.63 979 123.49 0 1 1 83 36 Profile 
+Bowling
+overall 2006-2017 76 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 28 13 5 108 21 13.50 87 124.13 0 0 1 11 4 Profile 
+Bowling
+overall 2006-2016 28 27 102.0 5 633 25 4/12 25.32 6.20 24.4 1 0 Profile 
+Batting
+overall 2006-2010 9 8 2 100 31* 16.66 88 113.63 0 0 1 14 1 Profile 
+Bowling
+overall 2006-2010 9 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2012 17 4 2 13 9 6.50 10 130.00 0 0 0 0 1 Profile 
+Bowling
+overall 2006-2012 17 17 58.4 0 448 17 4/19 26.35 7.63 20.7 1 0 Profile 
+Batting
+overall 1 1 0 38 38 38.00 45 84.44 0 0 0 4 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2012 24 14 7 172 33* 24.57 144 119.44 0 0 0 9 7 Profile 
+Bowling
+overall 2006-2012 24 23 77.0 1 618 28 3/16 22.07 8.02 16.5 0 0 Profile 
+Batting
+overall 2006-2017 65 55 11 1307 101 29.70 983 132.96 1 4 2 116 47 Profile 
+Bowling
+overall 2006-2017 65 24 52.1 0 395 12 2/6 32.91 7.57 26.0 0 0 Profile 
+Batting
+overall 2006-2012 19 18 0 394 68 21.88 271 145.38 0 2 1 43 16 Profile 
+Bowling
+overall 2006-2012 19 1 1.0 0 20 0 - - 20.00 - 0 0 Profile 
+Batting
+overall 10 3 2 20 19* 20.00 14 142.85 0 0 1 4 0 Profile 
+Bowling
+overall 10 9 34.0 2 288 7 2/12 41.14 8.47 29.1 0 0 Profile 
+Batting
+overall 1 1 0 10 10 10.00 12 83.33 0 0 0 2 0 Profile 
+Bowling
+overall 1 1 2.3 0 12 1 1/12 12.00 4.80 15.0 0 0 Profile 
+Batting
+overall 2007-2012 37 36 2 932 75 27.41 783 119.02 0 7 2 109 10 Profile 
+Bowling
+overall 2007-2012 37 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2009 10 2 2 3 2* - 3 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2007-2009 10 9 33.0 0 225 15 4/13 15.00 6.81 13.2 1 0 Profile 
+Batting
+overall 2007-2015 13 12 2 249 50 24.90 211 118.00 0 1 1 26 6 Profile 
+Bowling
+overall 2007-2015 13 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2017 58 51 9 1177 77* 28.02 863 136.38 0 8 1 77 74 Profile 
+Bowling
+overall 2007-2017 58 31 70.4 0 499 28 3/17 17.82 7.06 15.1 0 0 Profile 
+Batting
+overall 4 - - - - - - - - - - - - Profile 
+Bowling
+overall 4 4 14.3 0 138 4 2/20 34.50 9.51 21.7 0 0 Profile 
+Batting
+overall 2007-2016 62 55 12 1364 106 31.72 1054 129.41 1 11 3 120 51 Profile 
+Bowling
+overall 2007-2016 62 9 11.2 0 113 1 1/22 113.00 9.97 68.0 0 0 Profile 
+Batting
+overall 2007-2012 22 18 5 236 37* 18.15 161 146.58 0 0 3 11 17 Profile 
+Bowling
+overall 2007-2012 22 17 50.5 0 438 13 2/22 33.69 8.61 23.4 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 27 0 - - 6.75 - 0 0 Profile 
+Batting
+overall 2008-2012 10 3 0 7 6 2.33 16 43.75 0 0 1 0 0 Profile 
+Bowling
+overall 2008-2012 10 10 26.0 1 193 8 2/14 24.12 7.42 19.5 0 0 Profile 
+Batting
+overall 2008-2013 14 3 2 8 5* 8.00 9 88.88 0 0 1 1 0 Profile 
+Bowling
+overall 2008-2013 14 14 46.2 0 400 8 2/34 50.00 8.63 34.7 0 0 Profile 
+Batting
+overall 2009-2016 39 17 5 103 25 8.58 116 88.79 0 0 2 6 1 Profile 
+Bowling
+overall 2009-2016 39 39 131.4 3 942 31 3/48 30.38 7.15 25.4 0 0 Profile 
+Batting
+overall 6 1 1 10 10* - 6 166.66 0 0 0 0 1 Profile 
+Bowling
+overall 6 6 21.0 0 132 10 4/21 13.20 6.28 12.6 1 0 Profile 
+Batting
+overall 2009-2012 9 2 1 22 19 22.00 24 91.66 0 0 0 1 0 Profile 
+Bowling
+overall 2009-2012 9 9 30.0 1 245 17 4/19 14.41 8.16 10.5 1 0 Profile 
+Batting
+overall 2009-2017 26 5 0 28 22 5.60 39 71.79 0 0 3 1 2 Profile 
+Bowling
+overall 2009-2017 26 26 94.0 2 729 34 3/19 21.44 7.75 16.5 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 2.0 0 21 0 - - 10.50 - 0 0 Profile 
+Batting
+overall 2010-2015 9 9 0 169 48 18.77 154 109.74 0 0 1 13 8 Profile 
+Bowling
+overall 2010-2015 9 1 2.0 0 9 0 - - 4.50 - 0 0 Profile 
+Batting
+overall 2010-2012 7 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 2010-2012 7 7 23.0 1 151 4 2/13 37.75 6.56 34.5 0 0 Profile 
+Batting
+overall 2010-2013 9 1 1 2 2* - 4 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2010-2013 9 9 31.3 0 247 10 3/24 24.70 7.84 18.9 0 0 Profile 
+Batting
+overall 2010-2016 45 10 6 112 31* 28.00 108 103.70 0 0 0 13 1 Profile 
+Bowling
+overall 2010-2016 45 45 167.0 2 1154 52 4/8 22.19 6.91 19.2 2 0 Profile 
+Batting
+overall 2010-2017 48 44 12 1709 90* 53.40 1268 134.77 0 16 0 182 33 Profile 
+Bowling
+overall 2010-2017 48 12 24.2 0 198 4 1/13 49.50 8.13 36.5 0 0 Profile 
+Batting
+overall 2 2 0 12 10 6.00 27 44.44 0 0 0 2 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2017 10 1 0 0 0 0.00 0 - 0 0 1 0 0 Profile 
+Bowling
+overall 2010-2017 10 10 38.0 1 240 16 3/24 15.00 6.31 14.2 0 0 Profile 
+Batting
+overall 3 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 3 3 10.0 0 86 4 2/25 21.50 8.60 15.0 0 0 Profile 
+Batting
+overall 1 1 0 43 43 43.00 37 116.21 0 0 0 5 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 22 22 2 416 60 20.80 367 113.35 0 2 1 49 12 Profile 
+Bowling
+overall 2011-2016 22 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 36 26 18.00 32 112.50 0 0 0 4 1 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 31 31 31.00 21 147.61 0 0 0 0 3 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 20 20 2 375 61 20.83 331 113.29 0 1 2 32 6 Profile 
+Bowling
+overall 2011-2016 20 - - - - - - - - - - - Profile 
+Batting
+overall 3 1 0 15 15 15.00 17 88.23 0 0 0 0 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 7.2 0 56 3 2/29 18.66 7.63 14.6 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 24 1 1/24 24.00 8.00 18.0 0 0 Profile 
+Batting
+overall 5 - - - - - - - - - - - - Profile 
+Bowling
+overall 5 5 16.0 0 121 10 3/19 12.10 7.56 9.6 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 6.0 0 71 0 - - 11.83 - 0 0 Profile 
+Batting
+overall 2012-2016 16 4 2 15 9 7.50 15 100.00 0 0 1 0 0 Profile 
+Bowling
+overall 2012-2016 16 16 57.0 2 381 16 3/9 23.81 6.68 21.3 0 0 Profile 
+Batting
+overall 2014-2016 6 - - - - - - - - - - - - Profile 
+Bowling
+overall 2014-2016 6 6 20.4 0 204 8 3/38 25.50 9.87 15.5 0 0 Profile 
+Batting
+overall 2014-2015 8 2 2 3 3* - 7 42.85 0 0 0 0 0 Profile 
+Bowling
+overall 2014-2015 8 8 23.0 0 185 6 2/28 30.83 8.04 23.0 0 0 Profile 
+Batting
+overall 2014-2016 6 5 1 42 20 10.50 50 84.00 0 0 2 5 0 Profile 
+Bowling
+overall 2014-2016 6 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 28 1 1/28 28.00 7.00 24.0 0 0 Profile 
+Batting
+overall 3 2 0 35 24 17.50 29 120.68 0 0 0 2 1 Profile 
+Bowling
+overall 3 3 5.0 0 54 1 1/14 54.00 10.80 30.0 0 0 Profile 
+Batting
+overall 5 4 0 91 58 22.75 68 133.82 0 1 0 9 2 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 8 6 0 100 48 16.66 89 112.35 0 0 2 2 5 Profile 
+Bowling
+overall 8 - - - - - - - - - - - Profile 
+Batting
+overall 7 5 2 62 20* 20.66 50 124.00 0 0 0 2 3 Profile 
+Bowling
+overall 7 7 27.0 0 161 7 3/17 23.00 5.96 23.1 0 0 Profile 
+Batting
+overall 2 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 7.0 0 73 1 1/39 73.00 10.42 42.0 0 0 Profile 
+Batting
+overall 1 1 0 19 19 19.00 24 79.16 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.4 0 44 1 1/44 44.00 12.00 22.0 0 0 Profile 
+Batting
+overall 24 4 3 0 0* 0.00 2 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 24 24 89.1 4 587 33 3/11 17.78 6.58 16.2 0 0 Profile 
+Batting
+overall 19 10 0 100 31 10.00 75 133.33 0 0 1 7 5 Profile 
+Bowling
+overall 19 18 48.3 1 389 15 3/8 25.93 8.02 19.4 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 16 1 1/16 16.00 5.33 18.0 0 0 Profile 
+Batting
+overall 6 - - - - - - - - - - - - Profile 
+Bowling
+overall 6 6 24.0 1 174 11 6/25 15.81 7.25 13.0 0 1 Profile 
+Batting
+overall 1 1 1 1 1* - 2 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 42 1 1/42 42.00 10.50 24.0 0 0 Profile 
+Batting
+overall 3 3 1 87 52* 43.50 73 119.17 0 1 0 11 1 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 8 7 2 280 110* 56.00 186 150.53 1 1 1 26 11 Profile 
+Bowling
+overall 8 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 43 0 - - 10.75 - 0 0 Profile 
+Batting
+overall 2 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 8.0 0 55 3 2/23 18.33 6.87 16.0 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 8.0 1 41 6 4/10 6.83 5.12 8.0 1 0 Profile 
+Batting
+overall 1 1 0 5 5 5.00 6 83.33 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 32 1 1/32 32.00 8.00 24.0 0 0 Profile 
+Batting
+overall 1 1 1 5 5* - 3 166.66 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2011 35 33 2 583 79 18.80 459 127.01 0 3 3 37 24 Profile 
+Bowling
+overall 2005-2011 35 19 37.0 0 329 16 4/22 20.56 8.89 13.8 1 0 Profile 
+Batting
+overall 2005-2007 7 7 1 76 31 12.66 60 126.66 0 0 1 7 2 Profile 
+Bowling
+overall 2005-2007 7 7 25.0 0 161 5 2/23 32.20 6.44 30.0 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 6.5 0 49 3 3/16 16.33 7.17 13.6 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 6.3 0 42 1 1/13 42.00 6.46 39.0 0 0 Profile 
+Batting
+overall 2 2 1 33 19 33.00 25 132.00 0 0 0 5 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 1 1 1 1.00 4 25.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 7.0 0 55 4 4/24 13.75 7.85 10.5 1 0 Profile 
+Batting
+overall 2005-2013 37 36 5 1176 79 37.93 831 141.51 0 7 1 119 32 Profile 
+Bowling
+overall 2005-2013 37 3 5.0 0 53 1 1/27 53.00 10.60 30.0 0 0 Profile 
+Batting
+overall 2005-2007 3 3 0 76 43 25.33 61 124.59 0 0 0 10 1 Profile 
+Bowling
+overall 2005-2007 3 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2009 4 4 0 73 33 18.25 64 114.06 0 0 1 9 0 Profile 
+Bowling
+overall 2005-2009 4 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 0 166 72 55.33 131 126.71 0 2 0 23 1 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 27 27 13.50 22 122.72 0 0 1 4 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2014 34 22 9 216 47* 16.61 170 127.05 0 0 3 16 6 Profile 
+Bowling
+overall 2006-2014 34 34 110.3 1 887 24 3/10 36.95 8.02 27.6 0 0 Profile 
+Batting
+overall 3 3 0 60 32 20.00 57 105.26 0 0 0 6 0 Profile 
+Bowling
+overall 3 3 5.0 0 39 2 1/10 19.50 7.80 15.0 0 0 Profile 
+Batting
+overall 2006-2014 18 15 3 405 78* 33.75 431 93.96 0 1 0 30 5 Profile 
+Bowling
+overall 2006-2014 18 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2009 4 2 2 1 1* - 2 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2006-2009 4 4 14.0 0 155 3 1/31 51.66 11.07 28.0 0 0 Profile 
+Batting
+overall 2006-2017 11 4 1 5 4 1.66 7 71.42 0 0 1 0 0 Profile 
+Bowling
+overall 2006-2017 11 11 39.5 1 298 13 3/21 22.92 7.48 18.3 0 0 Profile 
+Batting
+overall 2006-2014 8 8 1 188 60* 26.85 163 115.33 0 1 0 23 2 Profile 
+Bowling
+overall 2006-2014 8 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2014 56 26 10 118 18* 7.37 118 100.00 0 0 2 7 3 Profile 
+Bowling
+overall 2006-2014 56 55 195.3 2 1491 65 4/24 22.93 7.62 18.0 1 0 Profile 
+Batting
+overall 1 1 0 13 13 13.00 11 118.18 0 0 0 2 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2011 14 8 5 96 35* 32.00 72 133.33 0 0 3 9 1 Profile 
+Bowling
+overall 2006-2011 14 13 46.0 0 299 11 2/19 27.18 6.50 25.0 0 0 Profile 
+Batting
+overall 2007-2009 19 4 3 1 1* 1.00 2 50.00 0 0 1 0 0 Profile 
+Bowling
+overall 2007-2009 19 19 70.2 1 552 18 3/23 30.66 7.84 23.4 0 0 Profile 
+Batting
+overall 1 1 1 31 31* - 22 140.90 0 0 0 2 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 1 1 1.00 2 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 40 2 2/40 20.00 10.00 12.0 0 0 Profile 
+Batting
+overall 2007-2009 4 4 0 61 26 15.25 54 112.96 0 0 0 10 0 Profile 
+Bowling
+overall 2007-2009 4 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2009 14 13 5 123 31 15.37 100 123.00 0 0 3 8 5 Profile 
+Bowling
+overall 2007-2009 14 14 42.0 0 309 12 3/18 25.75 7.35 21.0 0 0 Profile 
+Batting
+overall 2007-2010 10 8 2 127 32 21.16 100 127.00 0 0 1 11 5 Profile 
+Bowling
+overall 2007-2010 10 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2009 17 15 1 347 55* 24.78 284 122.18 0 1 0 26 13 Profile 
+Bowling
+overall 2007-2009 17 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2010 18 1 1 5 5* - 4 125.00 0 0 0 1 0 Profile 
+Bowling
+overall 2007-2010 18 18 61.1 0 437 23 3/16 19.00 7.14 15.9 0 0 Profile 
+Batting
+overall 2007-2010 7 7 1 138 51 23.00 144 95.83 0 1 0 9 3 Profile 
+Bowling
+overall 2007-2010 7 - - - - - - - - - - - Profile 
+Batting
+overall 4 4 0 113 50 28.25 80 141.25 0 1 0 12 3 Profile 
+Bowling
+overall 4 2 3.0 0 26 3 2/6 8.66 8.66 6.0 0 0 Profile 
+Batting
+overall 4 4 3 24 9* 24.00 20 120.00 0 0 0 2 0 Profile 
+Bowling
+overall 4 4 12.5 0 92 4 2/15 23.00 7.16 19.2 0 0 Profile 
+Batting
+overall 2007-2014 51 45 5 759 99* 18.97 554 137.00 0 4 9 68 31 Profile 
+Bowling
+overall 2007-2014 51 23 55.0 0 465 18 2/24 25.83 8.45 18.3 0 0 Profile 
+Batting
+overall 1 1 1 2 2* - 4 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 1.0 0 17 0 - - 17.00 - 0 0 Profile 
+Batting
+overall 1 1 0 7 7 7.00 11 63.63 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 1.0 0 12 0 - - 12.00 - 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 45 2 2/45 22.50 11.25 12.0 0 0 Profile 
+Batting
+overall 2 2 0 60 40 30.00 37 162.16 0 0 0 5 4 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2012 39 16 11 104 34 20.80 89 116.85 0 0 2 9 1 Profile 
+Bowling
+overall 2008-2012 39 38 135.0 4 859 51 3/13 16.84 6.36 15.8 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2014 38 35 10 711 65* 28.44 599 118.69 0 3 0 54 17 Profile 
+Bowling
+overall 2008-2014 38 21 53.4 1 387 16 4/10 24.18 7.21 20.1 1 0 Profile 
+Batting
+overall 1 1 0 4 4 4.00 7 57.14 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 3.0 0 17 0 - - 5.66 - 0 0 Profile 
+Batting
+overall 2009-2011 5 5 0 102 33 20.40 82 124.39 0 0 0 12 0 Profile 
+Bowling
+overall 2009-2011 5 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 2 2 2.00 4 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 34 2 2/34 17.00 8.50 12.0 0 0 Profile 
+Batting
+overall 5 5 2 37 14* 12.33 32 115.62 0 0 0 0 1 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 1 10 10* - 8 125.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 67 66 13 1568 85* 29.58 1197 130.99 0 8 3 117 69 Profile 
+Bowling
+overall 2009-2017 67 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 23 9 6 28 9* 9.33 37 75.67 0 0 0 1 0 Profile 
+Bowling
+overall 2009-2017 23 21 69.0 1 547 16 2/18 34.18 7.92 25.8 0 0 Profile 
+Batting
+overall 5 5 0 20 14 4.00 29 68.96 0 0 2 2 0 Profile 
+Bowling
+overall 5 1 1.0 0 9 1 1/9 9.00 9.00 6.0 0 0 Profile 
+Batting
+overall 3 1 1 0 0* - 3 0.00 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 11.0 0 97 3 2/38 32.33 8.81 22.0 0 0 Profile 
+Batting
+overall 2010-2012 25 25 1 526 63 21.91 470 111.91 0 3 2 47 23 Profile 
+Bowling
+overall 2010-2012 25 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2014 27 27 1 552 63 21.23 413 133.65 0 3 1 64 21 Profile 
+Bowling
+overall 2010-2014 27 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2015 8 7 4 91 37 30.33 63 144.44 0 0 1 4 5 Profile 
+Bowling
+overall 2011-2015 8 8 27.0 0 253 7 2/40 36.14 9.37 23.1 0 0 Profile 
+Batting
+overall 2011-2014 34 7 2 24 12 4.80 21 114.28 0 0 1 3 0 Profile 
+Bowling
+overall 2011-2014 34 33 117.0 1 1020 39 4/22 26.15 8.71 18.0 1 0 Profile 
+Batting
+overall 18 14 2 189 67 15.75 173 109.24 0 1 2 17 5 Profile 
+Bowling
+overall 18 15 42.0 0 321 7 2/6 45.85 7.64 36.0 0 0 Profile 
+Batting
+overall 2011-2017 53 46 11 943 73* 26.94 674 139.91 0 5 3 68 44 Profile 
+Bowling
+overall 2011-2017 53 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 45 45 5 1257 116* 31.42 939 133.86 1 7 4 135 37 Profile 
+Bowling
+overall 2011-2016 45 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2016 20 15 4 195 60* 17.72 181 107.73 0 1 0 16 5 Profile 
+Bowling
+overall 2011-2016 20 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2015 21 3 3 14 8* - 19 73.68 0 0 0 1 0 Profile 
+Bowling
+overall 2011-2015 21 21 80.0 0 583 27 3/16 21.59 7.28 17.7 0 0 Profile 
+Batting
+overall 2011-2017 21 18 5 192 38 14.76 141 136.17 0 0 1 17 8 Profile 
+Bowling
+overall 2011-2017 21 17 53.4 1 485 10 3/26 48.50 9.03 32.2 0 0 Profile 
+Batting
+overall 1 1 0 14 14 14.00 16 87.50 0 0 0 2 0 Profile 
+Bowling
+overall 1 1 4.0 0 15 1 1/15 15.00 3.75 24.0 0 0 Profile 
+Batting
+overall 7 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 7 6 18.0 0 199 5 2/25 39.80 11.05 21.6 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 7.5 0 70 2 1/28 35.00 8.93 23.5 0 0 Profile 
+Batting
+overall 2012-2014 17 6 3 32 22 10.66 20 160.00 0 0 1 4 1 Profile 
+Bowling
+overall 2012-2014 17 15 52.5 0 416 7 1/16 59.42 7.87 45.2 0 0 Profile 
+Batting
+overall 2012-2017 24 22 4 726 90* 40.33 558 130.10 0 4 0 74 16 Profile 
+Bowling
+overall 2012-2017 24 8 12.0 0 128 6 2/9 21.33 10.66 12.0 0 0 Profile 
+Batting
+overall 2009-2017 26 6 4 31 16* 15.50 32 96.87 0 0 0 2 1 Profile 
+Bowling
+overall 2009-2017 26 25 87.0 1 537 28 3/16 19.17 6.17 18.6 0 0 Profile 
+Batting
+overall 2014-2017 22 14 5 128 27* 14.22 113 113.27 0 0 1 11 5 Profile 
+Bowling
+overall 2014-2017 22 22 77.0 0 666 26 4/28 25.61 8.64 17.7 1 0 Profile 
+Batting
+overall 2014-2017 22 19 5 202 72* 14.42 179 112.84 0 1 6 19 6 Profile 
+Bowling
+overall 2014-2017 22 19 52.0 0 400 14 2/21 28.57 7.69 22.2 0 0 Profile 
+Batting
+overall 2014-2015 5 1 0 1 1 1.00 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2014-2015 5 5 16.0 0 138 3 2/33 46.00 8.62 32.0 0 0 Profile 
+Batting
+overall 1 1 0 7 7 7.00 7 100.00 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 8.0 0 55 3 2/26 18.33 6.87 16.0 0 0 Profile 
+Batting
+overall 2014-2017 19 19 0 369 78 19.42 284 129.92 0 1 3 34 17 Profile 
+Bowling
+overall 2014-2017 19 - - - - - - - - - - - Profile 
+Batting
+overall 10 9 0 133 53 14.77 86 154.65 0 1 1 12 6 Profile 
+Bowling
+overall 10 - - - - - - - - - - - Profile 
+Batting
+overall 12 8 3 73 21 14.60 59 123.72 0 0 1 2 5 Profile 
+Bowling
+overall 12 12 39.2 0 325 18 3/20 18.05 8.26 13.1 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 26 3 3/26 8.66 8.66 6.0 0 0 Profile 
+Batting
+overall 6 1 1 1 1* - 2 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 6 6 17.1 0 173 5 3/24 34.60 10.07 20.6 0 0 Profile 
+Batting
+overall 5 5 0 163 46 32.60 137 118.97 0 0 0 18 4 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 6.0 0 47 3 3/27 15.66 7.83 12.0 0 0 Profile 
+Batting
+overall 4 1 0 0 0 0.00 2 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 4 4 16.0 0 116 3 1/27 38.66 7.25 32.0 0 0 Profile 
+Batting
+overall 2005-2006 4 2 1 13 7 13.00 12 108.33 0 0 0 1 0 Profile 
+Bowling
+overall 2005-2006 4 4 12.5 0 105 3 2/20 35.00 8.18 25.6 0 0 Profile 
+Batting
+overall 2 2 0 3 2 1.50 13 23.07 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 8.0 0 52 1 1/28 52.00 6.50 48.0 0 0 Profile 
+Batting
+overall 2005-2006 5 5 0 110 38 22.00 85 129.41 0 0 0 20 0 Profile 
+Bowling
+overall 2005-2006 5 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2015 71 70 10 2140 123 35.66 1571 136.21 2 13 3 199 91 Profile 
+Bowling
+overall 2005-2015 71 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2007 8 7 1 187 57 31.16 117 159.82 0 1 0 8 14 Profile 
+Bowling
+overall 2005-2007 8 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 0 12 8 4.00 14 85.71 0 0 0 0 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2014 42 19 7 137 33* 11.41 123 111.38 0 0 4 11 5 Profile 
+Bowling
+overall 2005-2014 42 42 149.3 1 1228 43 3/26 28.55 8.21 20.8 0 0 Profile 
+Batting
+overall 2005-2007 2 2 0 0 0 0.00 5 0.00 0 0 2 0 0 Profile 
+Bowling
+overall 2005-2007 2 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2010 31 29 2 578 66 21.40 483 119.66 0 1 0 40 25 Profile 
+Bowling
+overall 2005-2010 31 21 51.3 0 349 18 3/5 19.38 6.77 17.1 0 0 Profile 
+Batting
+overall 2005-2010 3 2 1 5 5* 5.00 5 100.00 0 0 1 1 0 Profile 
+Bowling
+overall 2005-2010 3 3 10.0 0 93 3 2/16 31.00 9.30 20.0 0 0 Profile 
+Batting
+overall 1 1 0 18 18 18.00 14 128.57 0 0 0 2 0 Profile 
+Bowling
+overall 1 1 4.0 0 43 0 - - 10.75 - 0 0 Profile 
+Batting
+overall 4 4 1 74 40* 24.66 67 110.44 0 0 0 7 2 Profile 
+Bowling
+overall 4 2 6.5 0 50 4 3/20 12.50 7.31 10.2 0 0 Profile 
+Batting
+overall 2005-2010 20 8 3 21 8* 4.20 21 100.00 0 0 2 2 0 Profile 
+Bowling
+overall 2005-2010 20 20 77.3 2 543 25 3/18 21.72 7.00 18.6 0 0 Profile 
+Batting
+overall 2005-2008 3 2 0 14 13 7.00 15 93.33 0 0 0 2 0 Profile 
+Bowling
+overall 2005-2008 3 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2012 36 30 7 474 66* 20.60 339 139.82 0 2 3 38 22 Profile 
+Bowling
+overall 2005-2012 36 32 91.0 0 793 19 3/33 41.73 8.71 28.7 0 0 Profile 
+Batting
+overall 2005-2008 11 4 1 9 5 3.00 14 64.28 0 0 1 1 0 Profile 
+Bowling
+overall 2005-2008 11 10 33.1 1 269 16 3/20 16.81 8.11 12.4 0 0 Profile 
+Batting
+overall 2006-2013 38 31 8 463 60 20.13 391 118.41 0 2 2 28 23 Profile 
+Bowling
+overall 2006-2013 38 26 54.3 0 417 20 4/15 20.85 7.65 16.3 1 0 Profile 
+Batting
+overall 2006-2012 12 12 1 127 25 11.54 140 90.71 0 0 2 7 6 Profile 
+Bowling
+overall 2006-2012 12 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2007 9 9 0 174 42 19.33 174 100.00 0 0 1 17 3 Profile 
+Bowling
+overall 2006-2007 9 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2008 11 6 4 21 7 10.50 29 72.41 0 0 0 0 0 Profile 
+Bowling
+overall 2006-2008 11 10 35.0 3 255 10 4/7 25.50 7.28 21.0 1 0 Profile 
+Batting
+overall 2006-2010 11 9 1 61 26 7.62 64 95.31 0 0 0 6 2 Profile 
+Bowling
+overall 2006-2010 11 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 73 65 13 1256 63 24.15 1046 120.07 0 5 4 83 48 Profile 
+Bowling
+overall 2006-2016 73 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2008 3 1 0 2 2 2.00 2 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2006-2008 3 3 9.0 0 65 2 1/18 32.50 7.22 27.0 0 0 Profile 
+Batting
+overall 6 1 1 5 5* - 6 83.33 0 0 0 0 0 Profile 
+Bowling
+overall 6 6 23.0 1 193 7 2/14 27.57 8.39 19.7 0 0 Profile 
+Batting
+overall 2007-2014 34 22 6 205 38 12.81 190 107.89 0 0 3 14 2 Profile 
+Bowling
+overall 2007-2014 34 34 131.1 1 748 38 4/20 19.68 5.70 20.7 1 0 Profile 
+Batting
+overall 2007-2016 63 41 15 299 36* 11.50 297 100.67 0 0 4 19 8 Profile 
+Bowling
+overall 2007-2016 63 59 187.1 0 1278 58 4/16 22.03 6.82 19.3 2 0 Profile 
+Batting
+overall 2007-2010 10 8 0 86 36 10.75 71 121.12 0 0 0 5 5 Profile 
+Bowling
+overall 2007-2010 10 - - - - - - - - - - - Profile 
+Batting
+overall 5 5 0 56 31 11.20 67 83.58 0 0 0 5 1 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2014 22 21 1 457 62 22.85 358 127.65 0 3 2 47 18 Profile 
+Bowling
+overall 2008-2014 22 5 10.0 0 68 2 1/2 34.00 6.80 30.0 0 0 Profile 
+Batting
+overall 2008-2017 39 16 5 95 23 8.63 75 126.66 0 0 2 6 6 Profile 
+Bowling
+overall 2008-2017 39 38 141.0 2 1229 46 5/18 26.71 8.71 18.3 0 1 Profile 
+Batting
+overall 2008-2012 5 5 0 59 23 11.80 51 115.68 0 0 0 1 4 Profile 
+Bowling
+overall 2008-2012 5 1 1.0 0 7 0 - - 7.00 - 0 0 Profile 
+Batting
+overall 1 1 0 13 13 13.00 11 118.18 0 0 0 1 1 Profile 
+Bowling
+overall 1 1 3.0 0 43 2 2/43 21.50 14.33 9.0 0 0 Profile 
+Batting
+overall 1 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 3.0 1 18 1 1/18 18.00 6.00 18.0 0 0 Profile 
+Batting
+overall 2009-2017 11 7 1 73 36 12.16 68 107.35 0 0 0 8 1 Profile 
+Bowling
+overall 2009-2017 11 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2013 19 6 5 5 2* 5.00 10 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2009-2013 19 18 59.4 1 481 23 3/19 20.91 8.06 15.5 0 0 Profile 
+Batting
+overall 2009-2016 16 14 4 157 27 15.70 149 105.36 0 0 0 10 2 Profile 
+Bowling
+overall 2009-2016 16 14 30.0 0 218 14 4/22 15.57 7.26 12.8 1 0 Profile 
+Batting
+overall 2009-2016 61 59 7 1806 101* 34.73 1374 131.44 1 10 2 169 76 Profile 
+Bowling
+overall 2009-2016 61 1 1.0 0 11 0 - - 11.00 - 0 0 Profile 
+Batting
+overall 4 - - - - - - - - - - - - Profile 
+Bowling
+overall 4 4 13.0 0 116 6 2/30 19.33 8.92 13.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 2.0 0 19 0 - - 9.50 - 0 0 Profile 
+Batting
+overall 7 6 0 126 63 21.00 84 150.00 0 1 0 19 2 Profile 
+Bowling
+overall 7 1 2.5 0 24 2 2/24 12.00 8.47 8.5 0 0 Profile 
+Batting
+overall 2009-2014 5 4 0 38 22 9.50 58 65.51 0 0 0 3 0 Profile 
+Bowling
+overall 2009-2014 5 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 1 22 20* 11.00 35 62.85 0 0 1 3 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 2 2 5.4 0 31 2 2/20 15.50 5.47 17.0 0 0 Profile 
+Batting
+overall 2010-2013 21 19 0 327 58 17.21 296 110.47 0 2 2 33 11 Profile 
+Bowling
+overall 2010-2013 21 13 20.3 0 167 5 2/20 33.40 8.14 24.6 0 0 Profile 
+Batting
+overall 2010-2014 5 5 0 6 5 1.20 18 33.33 0 0 3 1 0 Profile 
+Bowling
+overall 2010-2014 5 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2016 18 7 7 21 10* - 23 91.30 0 0 0 1 0 Profile 
+Bowling
+overall 2010-2016 18 18 62.1 1 458 21 4/37 21.80 7.36 17.7 1 0 Profile 
+Batting
+overall 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 3 3 10.0 0 70 1 1/30 70.00 7.00 60.0 0 0 Profile 
+Batting
+overall 2011-2015 14 8 5 77 21* 25.66 56 137.50 0 0 1 5 4 Profile 
+Bowling
+overall 2011-2015 14 14 43.4 0 408 17 3/25 24.00 9.34 15.4 0 0 Profile 
+Batting
+overall 2011-2017 39 37 6 1125 73* 36.29 916 122.81 0 7 1 130 15 Profile 
+Bowling
+overall 2011-2017 39 11 18.4 0 148 6 2/16 24.66 7.92 18.6 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 45 1 1/45 45.00 11.25 24.0 0 0 Profile 
+Batting
+overall 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 3 3 11.0 0 107 4 3/31 26.75 9.72 16.5 0 0 Profile 
+Batting
+overall 2012-2017 8 8 4 75 41* 18.75 51 147.05 0 0 0 4 5 Profile 
+Bowling
+overall 2012-2017 8 4 10.0 0 82 3 2/22 27.33 8.20 20.0 0 0 Profile 
+Batting
+overall 2012-2013 15 3 1 37 20* 18.50 33 112.12 0 0 0 4 1 Profile 
+Bowling
+overall 2012-2013 15 13 42.2 1 337 10 2/42 33.70 7.96 25.4 0 0 Profile 
+Batting
+overall 2012-2013 5 5 2 25 16 8.33 21 119.04 0 0 0 1 1 Profile 
+Bowling
+overall 2012-2013 5 4 10.0 0 105 2 2/40 52.50 10.50 30.0 0 0 Profile 
+Batting
+overall 2012-2015 12 9 0 124 26 13.77 121 102.47 0 0 0 9 1 Profile 
+Bowling
+overall 2012-2015 12 - - - - - - - - - - - Profile 
+Batting
+overall 2012-2017 29 22 3 432 94* 22.73 314 137.57 0 2 3 26 24 Profile 
+Bowling
+overall 2012-2017 29 21 60.0 0 495 14 2/17 35.35 8.25 25.7 0 0 Profile 
+Batting
+overall 2012-2016 28 7 4 14 6* 4.66 15 93.33 0 0 2 1 1 Profile 
+Bowling
+overall 2012-2016 28 28 98.2 2 758 30 3/17 25.26 7.70 19.6 0 0 Profile 
+Batting
+overall 2012-2017 32 29 5 601 101 25.04 403 149.13 1 3 4 41 38 Profile 
+Bowling
+overall 2012-2017 32 3 4.0 0 41 0 - - 10.25 - 0 0 Profile 
+Batting
+overall 2012-2017 15 12 3 122 28 13.55 93 131.18 0 0 1 15 3 Profile 
+Bowling
+overall 2012-2017 15 13 32.4 0 259 11 3/16 23.54 7.92 17.8 0 0 Profile 
+Batting
+overall 2013-2017 14 5 1 13 5 3.25 23 56.52 0 0 1 0 0 Profile 
+Bowling
+overall 2013-2017 14 14 52.0 1 410 20 3/20 20.50 7.88 15.6 0 0 Profile 
+Batting
+overall 7 6 0 151 62 25.16 104 145.19 0 1 0 12 9 Profile 
+Bowling
+overall 7 - - - - - - - - - - - Profile 
+Batting
+overall 4 4 0 111 59 27.75 79 140.50 0 1 0 17 2 Profile 
+Bowling
+overall 4 4 12.0 0 80 2 2/16 40.00 6.66 36.0 0 0 Profile 
+Batting
+overall 2008-2017 32 25 6 359 51* 18.89 254 141.33 0 1 4 30 14 Profile 
+Bowling
+overall 2008-2017 32 - - - - - - - - - - - Profile 
+Batting
+overall 2014-2017 12 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 2014-2017 12 12 44.4 0 304 21 3/18 14.47 6.80 12.7 0 0 Profile 
+Batting
+overall 2014-2017 6 2 1 10 10 10.00 5 200.00 0 0 0 2 0 Profile 
+Bowling
+overall 2014-2017 6 6 22.0 1 191 7 3/44 27.28 8.68 18.8 0 0 Profile 
+Batting
+overall 14 9 1 49 18 6.12 57 85.96 0 0 1 4 0 Profile 
+Bowling
+overall 14 14 49.1 0 327 20 4/11 16.35 6.65 14.7 1 0 Profile 
+Batting
+overall 2 2 0 90 62 45.00 64 140.62 0 1 0 6 5 Profile 
+Bowling
+overall 2 1 2.0 0 19 1 1/19 19.00 9.50 12.0 0 0 Profile 
+Batting
+overall 2 1 0 1 1 1.00 5 20.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 4.0 0 41 0 - - 10.25 - 0 0 Profile 
+Batting
+overall 1 1 0 7 7 7.00 11 63.63 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 4 4 1 104 59* 34.66 79 131.64 0 1 0 9 3 Profile 
+Bowling
+overall 4 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 32 3 3/32 10.66 8.00 8.0 0 0 Profile 
+Batting
+overall 4 2 1 6 6 6.00 6 100.00 0 0 0 1 0 Profile 
+Bowling
+overall 4 4 14.1 0 116 5 2/16 23.20 8.18 17.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 5 5 5.00 11 45.45 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 27 1 1/27 27.00 6.75 24.0 0 0 Profile 
+Batting
+overall 2005-2010 25 21 6 268 36* 17.86 275 97.45 0 0 0 22 2 Profile 
+Bowling
+overall 2005-2010 25 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2010 23 23 1 400 90* 18.18 318 125.78 0 3 4 45 12 Profile 
+Bowling
+overall 2005-2010 23 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2012 25 23 4 666 73 35.05 558 119.35 0 5 0 56 20 Profile 
+Bowling
+overall 2005-2012 25 19 46.0 1 333 12 4/15 27.75 7.23 23.0 1 0 Profile 
+Batting
+overall 2005-2007 8 7 3 203 89* 50.75 160 126.87 0 1 0 17 10 Profile 
+Bowling
+overall 2005-2007 8 1 1.0 0 5 0 - - 5.00 - 0 0 Profile 
+Batting
+overall 2005-2010 9 3 2 4 2* 4.00 8 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2005-2010 9 9 33.0 0 241 17 4/19 14.17 7.30 11.6 1 0 Profile 
+Batting
+overall 2005-2015 50 38 11 572 43 21.18 402 142.28 0 0 1 29 39 Profile 
+Bowling
+overall 2005-2015 50 46 107.5 2 864 26 3/12 33.23 8.01 24.8 0 0 Profile 
+Batting
+overall 2005-2007 2 1 1 0 0* - 2 0.00 0 0 0 0 0 Profile 
+Bowling
+overall 2005-2007 2 2 8.0 0 42 2 2/19 21.00 5.25 24.0 0 0 Profile 
+Batting
+overall 2005-2011 10 4 2 10 5 5.00 11 90.90 0 0 1 2 0 Profile 
+Bowling
+overall 2005-2011 10 10 32.0 0 298 6 2/22 49.66 9.31 32.0 0 0 Profile 
+Batting
+overall 2005-2008 12 9 2 86 36* 12.28 70 122.85 0 0 3 4 4 Profile 
+Bowling
+overall 2005-2008 12 11 40.3 1 309 15 3/28 20.60 7.62 16.2 0 0 Profile 
+Batting
+overall 1 1 0 5 5 5.00 6 83.33 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2005-2011 33 33 2 982 89* 31.67 770 127.53 0 5 1 123 26 Profile 
+Bowling
+overall 2005-2011 33 3 4.0 0 57 0 - - 14.25 - 0 0 Profile 
+Batting
+overall 2006-2012 40 20 9 201 34 18.27 165 121.81 0 0 1 15 9 Profile 
+Bowling
+overall 2006-2012 40 39 129.0 1 823 37 3/16 22.24 6.37 20.9 0 0 Profile 
+Batting
+overall 1 1 0 1 1 1.00 5 20.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 11 11 11.00 10 110.00 0 0 0 1 0 Profile 
+Bowling
+overall 2 2 8.0 0 60 3 3/22 20.00 7.50 16.0 0 0 Profile 
+Batting
+overall 1 1 0 3 3 3.00 5 60.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 29 0 - - 7.25 - 0 0 Profile 
+Batting
+overall 1 1 1 6 6* - 7 85.71 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 1 1 3.0 0 41 1 1/41 41.00 13.66 18.0 0 0 Profile 
+Batting
+overall 2006-2010 14 14 1 323 94 24.84 219 147.48 0 3 2 27 20 Profile 
+Bowling
+overall 2006-2010 14 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2017 73 70 10 1457 79* 24.28 1098 132.69 0 9 5 121 52 Profile 
+Bowling
+overall 2006-2017 73 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2009 2 1 1 7 7* - 8 87.50 0 0 0 0 0 Profile 
+Bowling
+overall 2006-2009 2 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2014 21 12 4 124 34 15.50 113 109.73 0 0 1 13 2 Profile 
+Bowling
+overall 2006-2014 21 19 59.5 1 451 24 3/28 18.79 7.53 14.9 0 0 Profile 
+Batting
+overall 3 1 1 5 5* - 3 166.66 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 12.0 0 90 2 1/22 45.00 7.50 36.0 0 0 Profile 
+Batting
+overall 2006-2007 8 4 1 46 21 15.33 39 117.94 0 0 0 3 1 Profile 
+Bowling
+overall 2006-2007 8 8 31.0 0 231 8 2/31 28.87 7.45 23.2 0 0 Profile 
+Batting
+overall 1 1 0 0 0 0.00 2 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 31 0 - - 7.75 - 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 25 3 3/25 8.33 6.25 8.0 0 0 Profile 
+Batting
+overall 2007-2015 8 7 1 225 114* 37.50 157 143.31 1 1 0 19 14 Profile 
+Bowling
+overall 2007-2015 8 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2015 39 5 3 16 8* 8.00 13 123.07 0 0 0 2 1 Profile 
+Bowling
+overall 2007-2015 39 39 138.4 3 1022 45 4/17 22.71 7.37 18.4 2 0 Profile 
+Batting
+overall 7 4 0 14 6 3.50 28 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 7 6 13.5 0 114 4 2/23 28.50 8.24 20.7 0 0 Profile 
+Batting
+overall 2007-2017 71 65 21 1683 96* 38.25 1354 124.29 0 9 6 124 58 Profile 
+Bowling
+overall 2007-2017 71 35 65.1 0 506 17 3/18 29.76 7.76 23.0 0 0 Profile 
+Batting
+overall 2007-2016 42 9 4 15 5 3.00 20 75.00 0 0 1 1 0 Profile 
+Bowling
+overall 2007-2016 42 42 150.1 2 1009 58 4/9 17.39 6.71 15.5 2 0 Profile 
+Batting
+overall 1 1 0 8 8 8.00 25 32.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2015 14 10 0 158 48 15.80 109 144.95 0 0 1 6 11 Profile 
+Bowling
+overall 2008-2015 14 4 6.0 0 83 1 1/25 83.00 13.83 36.0 0 0 Profile 
+Batting
+overall 2008-2013 6 3 2 25 22 25.00 10 250.00 0 0 0 1 3 Profile 
+Bowling
+overall 2008-2013 6 6 20.2 1 173 9 3/18 19.22 8.50 13.5 0 0 Profile 
+Batting
+overall 2 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 7.0 0 54 2 2/36 27.00 7.71 21.0 0 0 Profile 
+Batting
+overall 2009-2014 23 3 2 2 1* 2.00 10 20.00 0 0 0 0 0 Profile 
+Bowling
+overall 2009-2014 23 23 78.0 2 541 18 3/16 30.05 6.93 26.0 0 0 Profile 
+Batting
+overall 3 3 0 15 12 5.00 23 65.21 0 0 1 0 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 38 38 5 1070 97* 32.42 824 129.85 0 6 1 122 22 Profile 
+Bowling
+overall 2009-2017 38 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 39 13 9 114 29* 28.50 96 118.75 0 0 0 10 3 Profile 
+Bowling
+overall 2009-2017 39 38 122.5 3 1012 41 4/13 24.68 8.23 17.9 1 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 7.0 0 44 2 1/16 22.00 6.28 21.0 0 0 Profile 
+Batting
+overall 2009-2017 24 15 6 174 48 19.33 132 131.81 0 0 1 12 7 Profile 
+Bowling
+overall 2009-2017 24 23 80.0 0 546 29 2/3 18.82 6.82 16.5 0 0 Profile 
+Batting
+overall 2009-2014 12 4 3 9 6* 9.00 13 69.23 0 0 0 0 0 Profile 
+Bowling
+overall 2009-2014 12 12 43.5 0 332 17 5/19 19.52 7.57 15.4 0 1 Profile 
+Batting
+overall 2009-2017 7 6 2 49 29 12.25 42 116.66 0 0 0 3 2 Profile 
+Bowling
+overall 2009-2017 7 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 14 8 7.00 19 73.68 0 0 0 1 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2017 49 42 13 841 53* 29.00 617 136.30 0 1 0 59 34 Profile 
+Bowling
+overall 2010-2017 49 - - - - - - - - - - - Profile 
+Batting
+overall 9 9 1 210 78 26.25 162 129.62 0 1 1 23 7 Profile 
+Bowling
+overall 9 - - - - - - - - - - - Profile 
+Batting
+overall 9 3 3 32 31* - 21 152.38 0 0 0 3 1 Profile 
+Bowling
+overall 9 9 32.2 0 261 12 4/27 21.75 8.07 16.1 1 0 Profile 
+Batting
+overall 13 13 2 236 117* 21.45 167 141.31 1 1 3 20 15 Profile 
+Bowling
+overall 13 - - - - - - - - - - - Profile 
+Batting
+overall 2012-2015 6 - - - - - - - - - - - - Profile 
+Bowling
+overall 2012-2015 6 6 23.2 0 228 7 2/26 32.57 9.77 20.0 0 0 Profile 
+Batting
+overall 2012-2017 29 21 8 304 36 23.38 256 118.75 0 0 1 23 7 Profile 
+Bowling
+overall 2012-2017 29 3 5.0 0 27 3 2/15 9.00 5.40 10.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2012-2017 36 36 6 1129 119 37.63 849 132.97 1 7 0 102 35 Profile 
+Bowling
+overall 2012-2017 36 2 1.2 0 3 0 - - 2.25 - 0 0 Profile 
+Batting
+overall 9 9 0 161 68 17.88 134 120.14 0 2 2 18 4 Profile 
+Bowling
+overall 9 2 2.0 0 13 1 1/6 13.00 6.50 12.0 0 0 Profile 
+Batting
+overall 2012-2017 30 30 4 742 52 28.53 582 127.49 0 1 3 88 23 Profile 
+Bowling
+overall 2012-2017 30 - - - - - - - - - - - Profile 
+Batting
+overall 2012-2017 12 6 3 53 17* 17.66 46 115.21 0 0 1 4 2 Profile 
+Bowling
+overall 2012-2017 12 12 43.0 1 363 18 4/27 20.16 8.44 14.3 1 0 Profile 
+Batting
+overall 2012-2017 13 3 0 19 13 6.33 29 65.51 0 0 0 1 0 Profile 
+Bowling
+overall 2012-2017 13 13 48.0 0 369 17 3/25 21.70 7.68 16.9 0 0 Profile 
+Batting
+overall 2013-2016 21 6 4 23 9* 11.50 20 115.00 0 0 0 2 0 Profile 
+Bowling
+overall 2013-2016 21 21 72.4 0 579 26 3/20 22.26 7.96 16.7 0 0 Profile 
+Batting
+overall 2013-2017 31 3 2 18 9* 18.00 17 105.88 0 0 0 1 1 Profile 
+Bowling
+overall 2013-2017 31 31 115.5 0 740 54 5/24 13.70 6.38 12.8 2 1 Profile 
+Batting
+overall 2013-2016 20 11 4 92 28 13.14 75 122.66 0 0 1 4 3 Profile 
+Bowling
+overall 2013-2016 20 20 65.2 0 497 24 5/23 20.70 7.60 16.3 0 1 Profile 
+Batting
+overall 5 2 1 15 12* 15.00 15 100.00 0 0 0 0 1 Profile 
+Bowling
+overall 5 5 16.4 0 149 5 2/31 29.80 8.94 20.0 0 0 Profile 
+Batting
+overall 2014-2017 6 6 0 162 49 27.00 151 107.28 0 0 1 17 1 Profile 
+Bowling
+overall 2014-2017 6 - - - - - - - - - - - Profile 
+Batting
+overall 16 2 2 5 5* - 6 83.33 0 0 0 0 0 Profile 
+Bowling
+overall 16 16 60.2 0 498 22 3/30 22.63 8.25 16.4 0 0 Profile 
+Batting
+overall 15 14 3 327 78 29.72 237 137.97 0 2 2 29 12 Profile 
+Bowling
+overall 15 - - - - - - - - - - - Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 6.0 0 48 4 3/16 12.00 8.00 9.0 0 0 Profile 
+Batting
+overall 2 2 0 26 19 13.00 16 162.50 0 0 0 3 1 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 1 49 32* 24.50 26 188.46 0 0 0 3 4 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 3 1 1 2 2* - 3 66.66 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 8.0 0 44 6 4/19 7.33 5.50 8.0 1 0 Profile 
+Batting
+overall 4 1 0 0 0 0.00 2 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 4 4 11.0 0 96 3 3/19 32.00 8.72 22.0 0 0 Profile 
+Batting
+overall 3 3 0 36 19 12.00 30 120.00 0 0 0 5 1 Profile 
+Bowling
+overall 3 2 4.4 0 41 1 1/19 41.00 8.78 28.0 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 5.5 0 51 0 - - 8.74 - 0 0 Profile 
+Batting
+overall 1 1 0 7 7 7.00 7 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 80 79 12 1889 104* 28.19 1567 120.54 1 13 10 223 33 Profile 
+Bowling
+overall 2006-2016 80 25 43.0 0 313 9 2/4 34.77 7.27 28.6 0 0 Profile 
+Batting
+overall 2006-2016 18 7 2 25 21 5.00 27 92.59 0 0 2 4 0 Profile 
+Bowling
+overall 2006-2016 18 18 63.0 3 464 18 3/19 25.77 7.36 21.0 0 0 Profile 
+Batting
+overall 2006-2011 31 30 3 629 88 23.29 487 129.15 0 4 4 76 23 Profile 
+Bowling
+overall 2006-2011 31 24 61.5 0 456 19 3/21 24.00 7.37 19.5 0 0 Profile 
+Batting
+overall 2006-2014 55 55 8 1493 100 31.76 1121 133.18 1 9 4 173 33 Profile 
+Bowling
+overall 2006-2014 55 1 1.0 0 8 0 - - 8.00 - 0 0 Profile 
+Batting
+overall 2006-2017 43 38 7 703 50 22.67 591 118.95 0 1 0 58 25 Profile 
+Bowling
+overall 2006-2017 43 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 8 5 1 33 13* 8.25 43 76.74 0 0 1 0 1 Profile 
+Bowling
+overall 2006-2016 8 8 27.0 0 199 7 2/18 28.42 7.37 23.1 0 0 Profile 
+Batting
+overall 2006-2017 67 21 8 73 27 5.61 94 77.65 0 0 5 3 3 Profile 
+Bowling
+overall 2006-2017 67 67 237.5 0 1749 89 5/31 19.65 7.35 16.0 1 1 Profile 
+Batting
+overall 2 2 2 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 7.0 0 77 0 - - 11.00 - 0 0 Profile 
+Batting
+overall 2006-2014 56 53 9 1382 78 31.40 1156 119.55 0 8 2 139 20 Profile 
+Bowling
+overall 2006-2014 56 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2017 16 16 0 216 37 13.50 188 114.89 0 0 3 25 4 Profile 
+Bowling
+overall 2006-2017 16 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 5 5 5.00 8 62.50 0 0 0 0 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2010 12 2 0 1 1 0.50 5 20.00 0 0 1 0 0 Profile 
+Bowling
+overall 2006-2010 12 12 47.0 0 297 13 3/29 22.84 6.31 21.6 0 0 Profile 
+Batting
+overall 2006-2011 16 15 2 175 38 13.46 177 98.87 0 0 0 19 3 Profile 
+Bowling
+overall 2006-2011 16 2 3.0 0 15 1 1/4 15.00 5.00 18.0 0 0 Profile 
+Batting
+overall 6 2 1 33 21 33.00 41 80.48 0 0 0 1 0 Profile 
+Bowling
+overall 6 6 22.0 1 128 6 2/14 21.33 5.81 22.0 0 0 Profile 
+Batting
+overall 2006-2009 4 3 1 12 7 6.00 15 80.00 0 0 0 0 0 Profile 
+Bowling
+overall 2006-2009 4 4 14.0 0 96 4 3/32 24.00 6.85 21.0 0 0 Profile 
+Batting
+overall 2007-2009 16 15 4 238 46* 21.63 188 126.59 0 0 2 21 8 Profile 
+Bowling
+overall 2007-2009 16 2 1.2 0 17 1 1/9 17.00 12.75 8.0 0 0 Profile 
+Batting
+overall 3 2 1 1 1* 1.00 5 20.00 0 0 1 0 0 Profile 
+Bowling
+overall 3 3 11.0 0 101 2 1/12 50.50 9.18 33.0 0 0 Profile 
+Batting
+overall 2 1 1 18 18* - 9 200.00 0 0 0 0 1 Profile 
+Bowling
+overall 2 2 5.0 0 30 2 2/6 15.00 6.00 15.0 0 0 Profile 
+Batting
+overall 2008-2011 5 4 0 13 10 3.25 21 61.90 0 0 1 0 0 Profile 
+Bowling
+overall 2008-2011 5 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 19 11 9.50 38 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2014 39 8 5 8 4* 2.66 17 47.05 0 0 0 1 0 Profile 
+Bowling
+overall 2008-2014 39 39 147.3 5 952 66 6/8 14.42 6.45 13.4 3 2 Profile 
+Batting
+overall 2008-2010 6 2 0 4 3 2.00 8 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2008-2010 6 6 22.0 0 179 7 2/37 25.57 8.13 18.8 0 0 Profile 
+Batting
+overall 5 5 0 77 25 15.40 64 120.31 0 0 1 8 2 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2017 58 30 9 215 31 10.23 184 116.84 0 0 4 14 7 Profile 
+Bowling
+overall 2008-2017 58 58 205.1 6 1530 66 4/31 23.18 7.45 18.6 2 0 Profile 
+Batting
+overall 5 5 2 49 20* 16.33 45 108.88 0 0 0 4 1 Profile 
+Bowling
+overall 5 5 15.0 0 126 4 4/19 31.50 8.40 22.5 1 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2017 68 54 18 1047 81* 29.08 878 119.24 0 5 0 66 35 Profile 
+Bowling
+overall 2009-2017 68 54 153.1 4 1033 36 3/16 28.69 6.74 25.5 0 0 Profile 
+Batting
+overall 2009-2017 9 3 1 2 1* 1.00 9 22.22 0 0 1 0 0 Profile 
+Bowling
+overall 2009-2017 9 9 31.3 1 278 8 3/13 34.75 8.82 23.6 0 0 Profile 
+Batting
+overall 2 2 0 33 18 16.50 39 84.61 0 0 0 2 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 5 3 2 49 38 49.00 49 100.00 0 0 0 3 1 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 27 1 1/27 27.00 9.00 18.0 0 0 Profile 
+Batting
+overall 2010-2017 48 42 2 720 58 18.00 697 103.29 0 4 0 65 15 Profile 
+Bowling
+overall 2010-2017 48 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 1 2 2* - 3 66.66 0 0 0 0 0 Profile 
+Bowling
+overall 2 2 6.0 0 61 1 1/21 61.00 10.16 36.0 0 0 Profile 
+Batting
+overall 7 2 0 8 6 4.00 6 133.33 0 0 0 1 0 Profile 
+Bowling
+overall 7 7 21.0 0 139 7 3/20 19.85 6.61 18.0 0 0 Profile 
+Batting
+overall 2010-2017 56 47 18 654 49 22.55 456 143.42 0 0 5 54 29 Profile 
+Bowling
+overall 2010-2017 56 44 114.2 1 1027 36 3/33 28.52 8.98 19.0 0 0 Profile 
+Batting
+overall 2011-2017 9 4 2 2 1* 1.00 4 50.00 0 0 1 0 0 Profile 
+Bowling
+overall 2011-2017 9 9 28.4 0 273 7 2/26 39.00 9.52 24.5 0 0 Profile 
+Batting
+overall 2011-2013 16 12 3 197 43* 21.88 158 124.68 0 0 1 18 5 Profile 
+Bowling
+overall 2011-2013 16 8 18.0 0 116 6 3/24 19.33 6.44 18.0 0 0 Profile 
+Batting
+overall 2011-2016 17 6 3 8 3 2.66 12 66.66 0 0 0 0 0 Profile 
+Bowling
+overall 2011-2016 17 17 60.5 3 373 18 5/3 20.72 6.13 20.2 0 1 Profile 
+Batting
+overall 3 2 0 1 1 0.50 6 16.66 0 0 1 0 0 Profile 
+Bowling
+overall 3 3 10.0 0 72 3 3/26 24.00 7.20 20.0 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 37 0 - - 12.33 - 0 0 Profile 
+Batting
+overall 2 2 0 11 11 5.50 13 84.61 0 0 1 1 0 Profile 
+Bowling
+overall 2 2 6.0 0 48 2 2/31 24.00 8.00 18.0 0 0 Profile 
+Batting
+overall 2012-2016 24 12 6 56 17 9.33 66 84.84 0 0 2 3 1 Profile 
+Bowling
+overall 2012-2016 24 23 81.0 0 549 25 4/46 21.96 6.77 19.4 1 0 Profile 
+Batting
+overall 2012-2016 26 20 2 291 44 16.16 267 108.98 0 0 1 27 5 Profile 
+Bowling
+overall 2012-2016 26 - - - - - - - - - - - Profile 
+Batting
+overall 3 1 0 6 6 6.00 7 85.71 0 0 0 1 0 Profile 
+Bowling
+overall 3 3 11.0 0 90 3 2/30 30.00 8.18 22.0 0 0 Profile 
+Batting
+overall 2012-2017 9 9 1 142 44 17.75 109 130.27 0 0 0 17 3 Profile 
+Bowling
+overall 2012-2017 9 2 3.0 0 44 0 - - 14.66 - 0 0 Profile 
+Batting
+overall 5 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 5 5 14.0 0 95 7 2/9 13.57 6.78 12.0 0 0 Profile 
+Batting
+overall 2013-2017 27 27 0 716 84 26.51 542 132.10 0 6 0 76 24 Profile 
+Bowling
+overall 2013-2017 27 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 4 4 4.00 8 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 2 1 1.0 0 17 0 - - 17.00 - 0 0 Profile 
+Batting
+overall 2013-2016 2 1 0 19 19 19.00 16 118.75 0 0 0 1 1 Profile 
+Bowling
+overall 2013-2016 2 2 6.3 0 46 1 1/19 46.00 7.07 39.0 0 0 Profile 
+Batting
+overall 2013-2017 16 16 5 163 37* 14.81 119 136.97 0 0 0 12 9 Profile 
+Bowling
+overall 2013-2017 16 16 44.0 1 317 9 2/45 35.22 7.20 29.3 0 0 Profile 
+Batting
+overall 3 3 0 40 38 13.33 34 117.64 0 0 0 7 0 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 7 7 0 167 62 23.85 154 108.44 0 1 0 10 2 Profile 
+Bowling
+overall 7 3 4.0 0 23 1 1/3 23.00 5.75 24.0 0 0 Profile 
+Batting
+overall 2 1 1 8 8* - 12 66.66 0 0 0 1 0 Profile 
+Bowling
+overall 2 2 7.2 0 71 3 2/33 23.66 9.68 14.6 0 0 Profile 
+Batting
+overall 22 19 3 275 42 17.18 208 132.21 0 0 4 16 12 Profile 
+Bowling
+overall 22 13 23.0 0 206 8 2/17 25.75 8.95 17.2 0 0 Profile 
+Batting
+overall 7 5 4 15 8* 15.00 17 88.23 0 0 0 2 0 Profile 
+Bowling
+overall 7 7 24.0 1 177 4 2/26 44.25 7.37 36.0 0 0 Profile 
+Batting
+overall 11 10 0 157 40 15.70 141 111.34 0 0 0 11 7 Profile 
+Bowling
+overall 11 7 16.5 0 146 3 1/11 48.66 8.67 33.6 0 0 Profile 
+Batting
+overall 12 12 1 112 27 10.18 115 97.39 0 0 2 5 8 Profile 
+Bowling
+overall 12 7 13.0 0 100 6 3/16 16.66 7.69 13.0 0 0 Profile 
+Batting
+overall 13 7 6 16 9* 16.00 20 80.00 0 0 1 1 0 Profile 
+Bowling
+overall 13 13 45.1 0 359 10 3/30 35.90 7.94 27.1 0 0 Profile 
+Batting
+overall 5 5 0 91 46 18.20 76 119.73 0 0 0 8 3 Profile 
+Bowling
+overall 5 1 1.0 0 9 0 - - 9.00 - 0 0 Profile 
+Batting
+overall 8 7 0 182 68 26.00 123 147.96 0 1 0 29 4 Profile 
+Bowling
+overall 8 - - - - - - - - - - - Profile 
+Batting
+overall 3 2 2 3 3* - 12 25.00 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 11.0 0 120 3 3/29 40.00 10.90 22.0 0 0 Profile 
+Batting
+overall 9 9 3 185 84* 30.83 136 136.02 0 2 1 16 6 Profile 
+Bowling
+overall 9 9 23.5 0 183 5 1/11 36.60 7.67 28.6 0 0 Profile 
+Batting
+overall 1 1 1 2 2* - 4 50.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 1.0 0 11 0 - - 11.00 - 0 0 Profile 
+Batting
+overall 2 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 2 2 4.0 0 37 0 - - 9.25 - 0 0 Profile 
+Batting
+overall 8 8 0 74 22 9.25 60 123.33 0 0 0 6 3 Profile 
+Bowling
+overall 8 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 8 6 4.00 7 114.28 0 0 0 1 0 Profile 
+Bowling
+overall 2 2 6.5 0 68 3 2/23 22.66 9.95 13.6 0 0 Profile 
+Batting
+overall 3 2 0 3 3 1.50 7 42.85 0 0 1 0 0 Profile 
+Bowling
+overall 3 1 1.0 0 10 0 - - 10.00 - 0 0 Profile 
+Batting
+overall 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 3 3 12.0 0 76 6 4/23 12.66 6.33 12.0 1 0 Profile 
+Batting
+overall 5 2 0 11 6 5.50 6 183.33 0 0 0 2 0 Profile 
+Bowling
+overall 5 5 17.0 1 157 5 2/32 31.40 9.23 20.4 0 0 Profile 
+Batting
+overall 1 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 22 0 - - 5.50 - 0 0 Profile 
+Batting
+overall 2006-2016 66 59 12 1142 66* 24.29 981 116.41 0 4 4 67 49 Profile 
+Bowling
+overall 2006-2016 66 56 173.4 0 1470 52 4/28 28.26 8.46 20.0 2 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 22 0 - - 7.33 - 0 0 Profile 
+Batting
+overall 2006-2010 22 22 5 343 41 20.17 347 98.84 0 0 0 34 5 Profile 
+Bowling
+overall 2006-2010 22 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 26 26 26.00 31 83.87 0 0 0 3 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 50 47 4 1519 117 35.32 1044 145.49 2 13 2 130 98 Profile 
+Bowling
+overall 2006-2016 50 23 53.1 0 377 17 2/15 22.17 7.09 18.7 0 0 Profile 
+Batting
+overall 2006-2010 5 5 1 30 14 7.50 41 73.17 0 0 1 3 0 Profile 
+Bowling
+overall 2006-2010 5 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2010 7 7 1 96 40 16.00 103 93.20 0 0 1 8 2 Profile 
+Bowling
+overall 2006-2010 7 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2016 58 38 12 421 55* 16.19 364 115.65 0 1 2 39 8 Profile 
+Bowling
+overall 2006-2016 58 - - - - - - - - - - - Profile 
+Batting
+overall 2006-2015 33 32 0 582 72 18.18 474 122.78 0 3 1 62 31 Profile 
+Bowling
+overall 2006-2015 33 11 23.4 0 212 7 3/24 30.28 8.95 20.2 0 0 Profile 
+Batting
+overall 2006-2016 23 12 6 84 21 14.00 75 112.00 0 0 1 7 3 Profile 
+Bowling
+overall 2006-2016 23 23 75.0 2 614 24 3/6 25.58 8.18 18.7 0 0 Profile 
+Batting
+overall 5 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 5 5 17.0 0 131 2 1/6 65.50 7.70 51.0 0 0 Profile 
+Batting
+overall 2007-2015 23 6 5 12 8 12.00 21 57.14 0 0 0 0 0 Profile 
+Bowling
+overall 2007-2015 23 23 82.5 1 705 29 3/16 24.31 8.51 17.1 0 0 Profile 
+Batting
+overall 2007-2016 66 50 16 534 42* 15.70 359 148.74 0 0 3 42 27 Profile 
+Bowling
+overall 2007-2016 66 57 146.4 0 1068 44 5/26 24.27 7.28 20.0 1 1 Profile 
+Batting
+overall 2007-2017 55 53 8 1277 85* 28.37 1105 115.56 0 9 0 116 52 Profile 
+Bowling
+overall 2007-2017 55 28 76.2 0 583 21 3/23 27.76 7.63 21.8 0 0 Profile 
+Batting
+overall 2007-2009 6 6 0 203 61 33.83 161 126.08 0 2 0 22 5 Profile 
+Bowling
+overall 2007-2009 6 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 10 10 10.00 15 66.66 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2007-2017 42 41 5 869 82* 24.13 750 115.86 0 5 6 84 31 Profile 
+Bowling
+overall 2007-2017 42 3 6.0 0 55 6 4/19 9.16 9.16 6.0 1 0 Profile 
+Batting
+overall 2007-2012 20 4 2 10 7* 5.00 9 111.11 0 0 1 1 0 Profile 
+Bowling
+overall 2007-2012 20 20 60.0 0 497 16 3/23 31.06 8.28 22.5 0 0 Profile 
+Batting
+overall 2007-2010 18 16 3 298 59 22.92 286 104.19 0 2 1 19 6 Profile 
+Bowling
+overall 2007-2010 18 1 2.0 0 10 2 2/10 5.00 5.00 6.0 0 0 Profile 
+Batting
+overall 1 1 0 10 10 10.00 6 166.66 0 0 0 1 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 0 0 0.00 4 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 1 1 1.0 0 9 0 - - 9.00 - 0 0 Profile 
+Batting
+overall 2008-2016 24 7 4 37 13* 12.33 42 88.09 0 0 1 5 1 Profile 
+Bowling
+overall 2008-2016 24 24 84.0 3 606 18 4/6 33.66 7.21 28.0 1 0 Profile 
+Batting
+overall 2008-2016 32 31 4 576 84* 21.33 540 106.66 0 5 5 39 27 Profile 
+Bowling
+overall 2008-2016 32 - - - - - - - - - - - Profile 
+Batting
+overall 6 6 0 96 36 16.00 77 124.67 0 0 1 8 4 Profile 
+Bowling
+overall 6 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 9 9 9.00 11 81.81 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2008-2017 54 47 10 762 63* 20.59 574 132.75 0 2 1 54 39 Profile 
+Bowling
+overall 2008-2017 54 35 79.0 0 652 23 3/30 28.34 8.25 20.6 0 0 Profile 
+Batting
+overall 2008-2012 11 1 1 3 3* - 2 150.00 0 0 0 0 0 Profile 
+Bowling
+overall 2008-2012 11 11 39.0 1 284 10 2/25 28.40 7.28 23.4 0 0 Profile 
+Batting
+overall 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 3 3 8.0 0 58 2 1/12 29.00 7.25 24.0 0 0 Profile 
+Batting
+overall 2008-2012 3 3 0 10 7 3.33 12 83.33 0 0 0 1 0 Profile 
+Bowling
+overall 2008-2012 3 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 0 32 19 16.00 31 103.22 0 0 0 4 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 1 1 1* - 1 100.00 0 0 0 0 0 Profile 
+Bowling
+overall 1 1 4.0 0 17 0 - - 4.25 - 0 0 Profile 
+Batting
+overall 2 2 1 68 37* 68.00 69 98.55 0 0 0 8 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2014 9 5 4 43 15* 43.00 47 91.48 0 0 0 2 0 Profile 
+Bowling
+overall 2009-2014 9 9 31.4 0 224 11 2/20 20.36 7.07 17.2 0 0 Profile 
+Batting
+overall 1 1 0 22 22 22.00 20 110.00 0 0 0 2 1 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2009-2013 3 - - - - - - - - - - - - Profile 
+Bowling
+overall 2009-2013 3 - - - - - - - - - - - Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 4.0 0 25 1 1/25 25.00 6.25 24.0 0 0 Profile 
+Batting
+overall 2010-2013 8 7 2 55 36* 11.00 53 103.77 0 0 3 5 0 Profile 
+Bowling
+overall 2010-2013 8 4 9.0 0 87 0 - - 9.66 - 0 0 Profile 
+Batting
+overall 2010-2011 2 2 0 23 15 11.50 39 58.97 0 0 0 3 0 Profile 
+Bowling
+overall 2010-2011 2 - - - - - - - - - - - Profile 
+Batting
+overall 2010-2014 12 11 0 235 42 21.36 210 111.90 0 0 2 20 9 Profile 
+Bowling
+overall 2010-2014 12 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2013 6 6 2 78 34* 19.50 62 125.80 0 0 1 4 4 Profile 
+Bowling
+overall 2011-2013 6 4 6.0 0 51 1 1/24 51.00 8.50 36.0 0 0 Profile 
+Batting
+overall 2011-2015 5 2 1 6 6* 6.00 6 100.00 0 0 1 1 0 Profile 
+Bowling
+overall 2011-2015 5 5 16.4 0 109 6 4/17 18.16 6.54 16.6 1 0 Profile 
+Batting
+overall 5 5 1 64 28 16.00 54 118.51 0 0 0 4 4 Profile 
+Bowling
+overall 5 - - - - - - - - - - - Profile 
+Batting
+overall 2011-2015 4 2 1 9 6* 9.00 8 112.50 0 0 0 1 0 Profile 
+Bowling
+overall 2011-2015 4 4 13.0 0 102 0 - - 7.84 - 0 0 Profile 
+Batting
+overall 2011-2016 43 35 11 345 43* 14.37 267 129.21 0 0 6 25 18 Profile 
+Bowling
+overall 2011-2016 43 36 85.1 0 787 21 2/10 37.47 9.24 24.3 0 0 Profile 
+Batting
+overall 2 2 0 27 24 13.50 38 71.05 0 0 0 2 0 Profile 
+Bowling
+overall 2 1 2.0 0 18 0 - - 9.00 - 0 0 Profile 
+Batting
+overall 2011-2016 34 33 0 724 84 21.93 595 121.68 0 4 4 84 26 Profile 
+Bowling
+overall 2011-2016 34 - - - - - - - - - - - Profile 
+Batting
+overall 2 1 0 0 0 0.00 2 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 1 1 0 3 3 3.00 7 42.85 0 0 0 0 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 3 2 2 4 3* - 5 80.00 0 0 0 0 0 Profile 
+Bowling
+overall 3 3 10.0 0 65 4 3/9 16.25 6.50 15.0 0 0 Profile 
+Batting
+overall 2011-2014 12 1 1 0 0* - 0 - 0 0 0 0 0 Profile 
+Bowling
+overall 2011-2014 12 12 40.5 0 278 18 4/21 15.44 6.80 13.6 1 0 Profile 
+Batting
+overall 2011-2017 17 12 4 185 37* 23.12 134 138.05 0 0 1 10 13 Profile 
+Bowling
+overall 2011-2017 17 16 47.3 0 413 11 3/23 37.54 8.69 25.9 0 0 Profile 
+Batting
+overall 1 - - - - - - - - - - - - Profile 
+Bowling
+overall 1 1 3.0 0 20 1 1/20 20.00 6.66 18.0 0 0 Profile 
+Batting
+overall 2012-2017 43 19 8 145 30 13.18 113 128.31 0 0 2 13 5 Profile 
+Bowling
+overall 2012-2017 43 41 153.4 1 935 44 4/12 21.25 6.08 20.9 1 0 Profile 
+Batting
+overall 2012-2017 36 10 7 29 14* 9.66 46 63.04 0 0 0 1 0 Profile 
+Bowling
+overall 2012-2017 36 36 136.0 3 769 47 4/15 16.36 5.65 17.3 1 0 Profile 
+Batting
+overall 6 1 1 17 17* - 9 188.88 0 0 0 0 2 Profile 
+Bowling
+overall 6 6 20.0 0 154 6 3/18 25.66 7.70 20.0 0 0 Profile 
+Batting
+overall 2 - - - - - - - - - - - - Profile 
+Bowling
+overall 2 2 7.0 0 56 3 3/44 18.66 8.00 14.0 0 0 Profile 
+Batting
+overall 1 1 0 12 12 12.00 14 85.71 0 0 0 1 0 Profile 
+Bowling
+overall 1 - - - - - - - - - - - Profile 
+Batting
+overall 2014-2017 7 7 0 89 40 12.71 90 98.88 0 0 2 5 6 Profile 
+Bowling
+overall 2014-2017 7 - - - - - - - - - - - Profile 
+Batting
+overall 2014-2017 8 4 1 42 26* 14.00 37 113.51 0 0 1 4 1 Profile 
+Bowling
+overall 2014-2017 8 8 27.1 0 230 7 2/27 32.85 8.46 23.2 0 0 Profile 
+Batting
+overall 6 1 0 0 0 0.00 1 0.00 0 0 1 0 0 Profile 
+Bowling
+overall 6 6 20.1 1 183 8 3/28 22.87 9.07 15.1 0 0 Profile 
+Batting
+overall 2016-2017 9 9 0 222 100 24.66 146 152.05 1 1 1 11 20 Profile 
+Bowling
+overall 2016-2017 9 - - - - - - - - - - - Profile 
+Batting
+overall 3 3 0 25 16 8.33 22 113.63 0 0 0 2 1 Profile 
+Bowling
+overall 3 - - - - - - - - - - - Profile 
+Batting
+overall 5 - - - - - - - - - - - - Profile 
+Bowling
+overall 5 5 17.0 1 93 6 2/15 15.50 5.47 17.0 0 0 Profile 
+Batting
+overall 2 2 0 5 5 2.50 6 83.33 0 0 1 1 0 Profile 
+Bowling
+overall 2 - - - - - - - - - - - Profile 
+Batting
+overall 2 2 1 18 17* 18.00 25 72.00 0 0 0 2 0 Profile 
+Bowling
+overall 2 1 1.0 0 5 0 - - 5.00 - 0 0 Profile 
