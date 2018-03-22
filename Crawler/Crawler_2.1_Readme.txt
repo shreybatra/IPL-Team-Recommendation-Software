@@ -1,0 +1,3 @@
+Crawler_2.1
+added file handling.
+Saving all the names and their bowling stats in each line in the file bowlersinfo.txt in the same folder as the script.

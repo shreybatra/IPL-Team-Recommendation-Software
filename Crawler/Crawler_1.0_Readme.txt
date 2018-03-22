@@ -1,0 +1,22 @@
+I made the first crawler - Crawler_1.0
+
+It prints all “T20“ the players with their “Batting Stats” of the following countries :-
+Australia
+Bangladesh
+England
+India
+New Zealand
+Pakistan
+South Africa
+Sri Lanka
+West Indies
+Zimbabwe
+
+Rest teams would be added in further versions of the crawler.
+
+Do make further changes in another copy of the code to add the bowler stats of the same players. Save the new code as Crawler_1.1
+
+Any major change in the crawler as printing the data to the file, upgrade the version to Crawler_2.0
+
+Also mention comments, what changes has been done in which version to make the current code.
+Thanx

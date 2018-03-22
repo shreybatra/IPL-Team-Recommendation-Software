@@ -1,0 +1,4 @@
+Crawler_2.0
+added file handling.
+Saving all the names and their batting stats in each line in the file batsmeninfo.txt in the same folder as the script.
+Someone plz add the bowling stats in the script and make it 2.1
